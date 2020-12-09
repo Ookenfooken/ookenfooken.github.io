@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eye Move"
+title                    : "Eye Investigate"
 title_separator          : "-"
-name                     : &name "Jolande Fooken"
-description              : &description "personal description"
+name                     : &name "Your Name"
+description              : &description "Postdoctoral Fellow"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jolande Fooken"
   avatar           : "photoJoli.jpg"
-  bio              : "Eye movements, Eye-hand coordination, Visual prediction, Sensorimotor decisions, Motor control"
+  bio              : "Eye movements, Visual prediction, Eye-hand coordination, Sensorimotor decisions, Motor control"
   location         : "Queen's University, Kingston, ON"
   employer         :
   pubmed           : 
@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+ # portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
