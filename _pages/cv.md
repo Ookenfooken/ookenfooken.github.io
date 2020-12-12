@@ -11,19 +11,19 @@ redirect_from:
 
 Academic Track
 ======
-* Postdoctoral Fellow with Randy Flanagan (Cognition & Action Lab) and Jason Gallivan (Memory, Action, & Perception Lab) at Queen's University (since November 2020)
-* Postdoctoral Fellow with Miriam Spering (Oculomotor Lab) at the University of British Columbia (July 2019 - August 2020)
+* <b>Postdoctoral Fellow</b> with Randy Flanagan (Cognition & Action Lab) and Jason Gallivan (Memory, Action, & Perception Lab) at Queen's University (since November 2020)
+* <b>Postdoctoral Fellow</b> with Miriam Spering (Oculomotor Lab) at the University of British Columbia (July 2019 - August 2020)
 
 Education
 ======
-* B.S.  in Physics from RWTH University Aachen, Germany (August 2010)
-* M.S. in Biomedical Engineering from RWTH University Aachen (March 2013)
-* M.S. in Computer Science from University of British Columbia (August 2015)
-* Ph.D in Neuroscience from University of British Columbia (July 2019)
+* <b>B.S.</b>  in Physics from RWTH University Aachen, Germany (August 2010)
+* <b>M.S.</b> in Biomedical Engineering from RWTH University Aachen (March 2013)
+* <b>M.S.</b> in Computer Science from University of British Columbia (August 2015)
+* <b>Ph.D.</b> in Neuroscience from University of British Columbia (July 2019)
 
 Funding
 ======
-* Deutsche Forschungsgemeinschaft (DFG) Research Fellowship (grant FO 1347/1-1)
+* <b>Deutsche Forschungsgemeinschaft</b> (DFG) Research Fellowship (grant FO 1347/1-1)
 
 Selected Awards
 ======
@@ -37,17 +37,17 @@ Selected Awards
 
 Research Experience 
 ======
-* Research assistant in Miriam Spering's Oculomotor Lab, Deptartment of Ophthalmology and Visual Sciences, UBC (September 2015-July 2019)
-* Research assistant in Dinesh Pai's Sensorimotor Systems Lab, Department Computer Science, UBC (September 2013-August 2015)
-* Research intern in Miriam Spering's Neuroscience of Vision & Action Lab, Deptartment Ophthalmology and Visual Sciences, UBC (June 2012-October 2012)
-* Research Intern in Daniel Timm's Innovative Cardiovascular Engineering and Technology Lab, Prince Charles Hospital, Queensland University of Technology, Australia (March 2012-June2012)
-* Research assistant in Martin Baumann's Biophysical & Education Engineering Lab, Institute of Applied Medical Engineering, RWTH Aachen (October 2010-May 2013)
+* <b>Research assistant</b> in Miriam Spering's Oculomotor Lab, Deptartment of Ophthalmology and Visual Sciences, UBC (September 2015-July 2019)
+* <b>Research assistant</b> in Dinesh Pai's Sensorimotor Systems Lab, Department Computer Science, UBC (September 2013-August 2015)
+* <b>Research intern</b> in Miriam Spering's Neuroscience of Vision & Action Lab, Deptartment Ophthalmology and Visual Sciences, UBC (June 2012-October 2012)
+* <b>Research Intern</b> in Daniel Timm's Innovative Cardiovascular Engineering and Technology Lab, Prince Charles Hospital, Queensland University of Technology, Australia (March 2012-June2012)
+* <b>Research assistant</b> in Martin Baumann's Biophysical & Education Engineering Lab, Institute of Applied Medical Engineering, RWTH Aachen (October 2010-May 2013)
   
 Teaching Experience
 ======
-* Teaching Assistant, Department of Psychology, University of British Columbia, Canada <br>
+* <b>Teaching Assistant</b>, Department of Psychology, University of British Columbia, Canada <br>
 Sensory Systems & Perceptual Processing (PSYC 367/368): Anatomy and physiology of the sensory pathways and their relation to perceptual phenomena.
-* Laboratory Supervisor, Department of Experimental Physics, RWTH Aachen University, Germany <br>
+* <b>Laboratory Supervisor</b>, Department of Experimental Physics, RWTH Aachen University, Germany <br>
 Physics Laboratory for Medical Students: Practical demonstrations of simple physical phenomena, e.g. modulation of blood pressure, ionic transmission, optics of the eye.
 
 Conference Organization
@@ -67,18 +67,18 @@ Peer-Reviewing Activities
 
 Service and Leadership
 ======
-* Field hockey coach for junior and women's league (September 2014-March 2018)
-* European Summer School in Visual Neuroscience, Giessen University, Germany (September 2016)
-* Summer School in Computational Sensory-Motor Neuroscience, Queens University, Canada (August 2013)
-* Floor Warden, Institute for Computing, Information and Cognitive Systems, UBC (October 2018-March 2020)
-* Local Health and Safety Committee, Blusson Spinal Cord Centre, ICORD (June 2016-April 2017)
-* Space and Safety Committee, Department of Computer Science, UBC (April 2014-August 2015)
-* Vice President of Graduate Student Association, Department of Computer Science, UBC (May 2014-May 2015)
-* Elected chair for Student Association, Department of Physics, Math, and Computer Science, RWTH Aachen University (April 2008-August 2010)
-* Community Service Program at Malaysian Hockey Federation (August 2007-February 2007)
+* <b>Field hockey coach</b> for junior and women's league (September 2014-March 2018)
+* European <b>Summer School</b> in Visual Neuroscience, Giessen University, Germany (September 2016)
+* <b>Summer School</b> in Computational Sensory-Motor Neuroscience, Queens University, Canada (August 2013)
+* <b>Floor Warden</b>, Institute for Computing, Information and Cognitive Systems, UBC (October 2018-March 2020)
+* Local <b>Health and Safety</b> Committee, Blusson Spinal Cord Centre, ICORD (June 2016-April 2017)
+* <b>Space and Safety</b> Committee, Department of Computer Science, UBC (April 2014-August 2015)
+* <b>Vice President</b> of Graduate Student Association, Department of Computer Science, UBC (May 2014-May 2015)
+* Elected <b>Chair</b> for Student Association, Department of Physics, Math, and Computer Science, RWTH Aachen University (April 2008-August 2010)
+* <b>Community Service Program</b> at Malaysian Hockey Federation (August 2007-February 2007)
 
 Leave of Absence  
 ======
-* Maternity leave from April to December 2017.
-* Maternity leave from October 2019 to May 2020.
+* Maternity leave from April to December 2017
+* Maternity leave from October 2019 to May 2020
 
