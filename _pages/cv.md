@@ -79,4 +79,6 @@ Service and Leadership
 
 Leave of Absence  
 ======
-* Currently signed in to 43 different slack teams
+* Maternity leave from April to December 2017.
+* Maternity leave from October 2019 to May 2020.
+
