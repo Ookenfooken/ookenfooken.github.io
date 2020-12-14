@@ -11,8 +11,8 @@ redirect_from:
 
 Academic Track
 ------
-* <b>Postdoctoral Fellow</b> with Randy Flanagan (Cognition & Action Lab) and Jason Gallivan (Memory, Action, & Perception Lab) at Queen's University (since November 2020)
-* <b>Postdoctoral Fellow</b> with Miriam Spering (Oculomotor Lab) at the University of British Columbia (July 2019 - August 2020)
+* <b>Postdoctoral Fellow</b> with Randy Flanagan (Cognition & Action Lab) and Jason Gallivan (Memory, Action, & Perception Lab), Queen's University (since November 2020)
+* <b>Postdoctoral Fellow</b> with Miriam Spering (Oculomotor Lab), University of British Columbia (July 2019 - August 2020)
 
 Education
 ------
