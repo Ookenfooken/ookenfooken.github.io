@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow working with Randy Flanagan (Cognition & Action Lab) and Jason Gallivan (Memory, Action & Perception lab) at the Centre for Neuroscience Studies at Queen's University in Kingston, Ontario (Canada). I am orignially from Germany, where I obtained a B.Sc. in Physics and an M.Sc. in Biomedical Engineering both from RWTH Aachen University. I then joined the University of British Columbia in beautiful Vancouver (Canada) to work with Miriam Spering and Dinesh Pai. After some time in the Computer Science department (M.Sc. in 2015) I finally settled on a Ph.D. in Neuroscience and completed the program in 2019. 
+I am a postdoctoral fellow working with Randy Flanagan (Cognition & Action Lab) and Jason Gallivan (Memory, Action & Perception lab) at the Centre for Neuroscience Studies at Queen's University in Kingston, Ontario (Canada). I am orignially from Germany, where I obtained a B.Sc. in Physics and an M.Sc. in Biomedical Engineering both from RWTH Aachen University. I then joined the University of British Columbia in beautiful Vancouver (Canada) to work with Miriam Spering and Dinesh Pai. After some time in the Computer Science department (M.Sc. in 2015), I finally settled on a Ph.D. in Neuroscience and completed the program in 2019. 
 
 Research Interests
 ======
