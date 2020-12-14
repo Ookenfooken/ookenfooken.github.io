@@ -16,9 +16,9 @@ Academic Track
 
 Education
 ------
-* <b>B.S.</b>  in Physics from RWTH University Aachen, Germany (August 2010)
-* <b>M.S.</b> in Biomedical Engineering from RWTH University Aachen (March 2013)
-* <b>M.S.</b> in Computer Science from University of British Columbia (August 2015)
+* <b>B.Sc.</b>  in Physics from RWTH University Aachen, Germany (August 2010)
+* <b>M.Sc.</b> in Biomedical Engineering from RWTH University Aachen (March 2013)
+* <b>M.Sc.</b> in Computer Science from University of British Columbia (August 2015)
 * <b>Ph.D.</b> in Neuroscience from University of British Columbia (July 2019)
 
 Funding
