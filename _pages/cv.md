@@ -74,7 +74,7 @@ Service and Leadership
 * Local <b>Health and Safety</b> Committee, Blusson Spinal Cord Centre, ICORD (June 2016-April 2017)
 * <b>Space and Safety</b> Committee, Department of Computer Science, UBC (April 2014-August 2015)
 * <b>Vice President</b> of Graduate Student Association, Department of Computer Science, UBC (May 2014-May 2015)
-* Elected <b>Chair</b> for Student Association, Department of Physics, Math, and Computer Science, RWTH Aachen University (April 2008-August 2010)
+* <b>Elected Chair</b> for Student Association, Department of Physics, Math, and Computer Science, RWTH Aachen University (April 2008-August 2010)
 * <b>Community Service Program</b> at Malaysian Hockey Federation (August 2007-February 2007)
 
 Leave of Absence  
