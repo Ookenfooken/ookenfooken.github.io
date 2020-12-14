@@ -17,7 +17,7 @@ author_profile: true
 
 Refereed Journal Articles 
 ------
-* <b>Fooken, J.</b> & Spering, M. (2020). Eye movements as a readout of sensorimotor decision processes. <i>Journal of Neurophysiology</i>, 123(4), 1439-1447. <a href="files/FookenSpering.JNP.2020.pdf">[pdf]</a> 
+* <b>Fooken, J.</b> & Spering, M. (2020). Eye movements as a readout of sensorimotor decision processes. <i>Journal of Neurophysiology</i>, 123(4), 1439-1447. <a href="../files/FookenSpering.JNP.2020.pdf">[pdf]</a> 
 * Murch, W. S., Limbrick-Oldfield, E. H., Ferrari, M. A., MacDonald, K. I., <b>Fooken, J.</b>, Cherkasova, M. V., Spering, M., & Clark, L. (2020). Zoned in or zoned out? Using mobile eye tracking to probe immersion in slot machine gambling. <i>Addiction</i>, 115(6), 1127-1138 <a href="publications/MurchEtAl.2020.pdf">[pdf]</a>
 * <b>Fooken, J.</b> & Spering, M. (2019). Decoding go/no-go decisions from eye movements. <i>Journal of Vision</i>, 19(2):5, 1-13. <a href="publications/FookenSpering.JOV.2019.pdf">[pdf]</a>
 * <b>Fooken, J.</b>, Lalonde, K.M., Mann, G.K., & Spering, M. (2018). Eye movement training is most effective when it involves a task-relevant sensorimotor decision. <i>Journal of Vision</i>, 18(4):18, 1-18. <a href="publications/FookenEtal.JOV.2018.pdf">[pdf]</a> 
