@@ -5,20 +5,36 @@ permalink: /talks/
 author_profile: true
 ---
 Invited Talks
-======
-* 2020. Decoding sensorimotor decisions from eye movements. Hosted by Martin Rolfs, Humboldt University of Berlin, Germany, September 18.
-* 2020. Eye movement signatures during sensorimotor decisions. Hosted by Tobias Donner, University Medical Center Hamburg-Eppendorf, Germany, June 3.
-* 2019. Eye movements as indicators of visual and sensorimotor processing. Hosted by Philippe Lefèvre, School of Engineering. Université Catholique de Louvain, Brussels, Belgium, July 23.
-* 2019. Linking eye movements to visual predictions. Centre for Neuroscience. Hosted by Randy Flanagan, Queen’s University, Kingston, Ontario, Canada, February 20.
-* 2018. Linking eye movements to visual predictions. Hosted by Stefanie Becker, School of Psychology. University of Queensland, Brisbane, Queensland, Australia, August 20.
-
+------
+* Decoding sensorimotor decisions from eye movements. Hosted by Martin Rolfs, Humboldt University of Berlin, Germany, September 18, 2020.
+* Eye movement signatures during sensorimotor decisions. Hosted by Tobias Donner, University Medical Center Hamburg-Eppendorf, Germany, June 3, 2020.
+* Eye movements as indicators of visual and sensorimotor processing. Hosted by Philippe Lefèvre, School of Engineering. Université Catholique de Louvain, Brussels, Belgium, July 23, 2019.
+* Linking eye movements to visual predictions. Centre for Neuroscience. Hosted by Randy Flanagan, Queen’s University, Kingston, Ontario, Canada, February 20, 2019.
+* Linking eye movements to visual predictions. Hosted by Stefanie Becker, School of Psychology. University of Queensland, Brisbane, Queensland, Australia, August 20, 2018.
 
 Conference Talks
-======
-
+------
+* <b>Fooken, J.</b>, & Spering, M. (2019). Eye Movement Signatures of Go/No-Go Decisions With Different Task Constraints. <i>Perception</i>, 48, 76.
+* <b>Fooken, J.</b>, & Spering, M. (2019). Eye decide: eye movement initiation relates to decision accuracy in a go/no-go interception task. <i>Journal of Vision</i>, 19(10), 12a.
+* <b>Fooken, J.</b>, Lalonde, K. M., & Spering, M. (2016). When hand movements improve eye movement performance. <i>Journal of Vision</i>,16(12), 374.
 
 Conference Posters
-======
+------
+* Kinjo, H., <b>Fooken, J.</b>, & Spering, M. (2019). Are eye movements beneficial for memory retrieval?  <i>Journal of Vision</i>, 19(10), 39.
+* <b>Fooken, J.</b>, Mann, G.K., Jones, C.B., McKeown, M.J., & Spering, M. (2018). Eye and hand movement characteristics during rapid go/no-go decisions in Parkinson’s disease. Program No. 399.19/LL2. 2018 Neuroscience Meeting Planner. San Diego, CA: Society for Neuroscience, 2018, Online.
+* <b>Fooken, J.</b> & Spering, M. (2018). Pursuit eye movements enhance decision making and hitting accuracy in a go/no-go manual interception task. <i>Journal of Vision</i>, 18(10), 596.
+* Spering, M. & <b>Fooken, J.</b> (2017). Eye movement signatures of decision making and hand movement accuracy in a go-no go manual interception task. <i>Journal of Vision</i>, 17(10), 813.
+* Pai, D. K., Rolin, R. A., <b>Fooken, J.</b>, & Spering, M. (2017). Time to Contact Estimation in Virtual Reality.  <i>Journal of Vision</i>, 17(10), 417.
+* Kreyenmeier, P., <b>Fooken, J.</b>, & Spering, M. (2016). Similar effects of visual context dynamics on eye and hand movements. <i>Journal of Vision</i>, 16(12), 457-457.
+* <b>Fooken, J.</b>, Yeo, S.-H., Pai, D. K., & Spering, M. (2014). Accurate smooth pursuit eye movements improve hand movements in a manual interception task. Program No. 533.12/HH2. 2014 Neuroscience Meeting Planner. Washington, D.C.: Society for Neuroscience, 2014. Online.
+
+Workshop Presentations
+------
+* <b>Fooken, J.</b>, & Spering, M. (2019, July). Pursuit initiation as the earliest readout of decision formation. Gordon Research Conference on Eye Movements. Lewiston, ME.
+* <b>Fooken, J.</b> & Spering, M. (2018, May). To swing or not to swing? The role of eye movements and simple heuristics when making ultra-fast decisions in a go/no-go manual interception task. Satellite 1: CAPnet/CPS of the 12th Annual Canadian Neuroscience Meeting, Vancouver, BC, Canada.
+* <b>Fooken, J.</b> & Spering, M. (2016, June). Eye movements predict hand movements of baseball palyers in track-intercept task. Talk at the Annual Meeting of the North American Society of sport Psychology & Physical Activity (NASPSPA). Montreal, QC. 
+* <b>Fooken, J.</b>, Yeo, S.-H., Pai, D. K., & Spering, M. (2015, July). Accurate smooth pursuit eye movements lead more accurate manual interceptions. Gordon Research Conference on Eye Movements. Bentley University, MA.
+* <b>Fooken, J.</b>, Yeo, S.-H., Pai, D. K., & Spering, M. (2015, May). Accurate smooth pursuit eye movements lead to earlier and more accurate manual interceptions. Satellite 1: CAPnet/CPS of the 9th Annual Canadian Neuroscience Meeting, Vancouver, BC, Canada.
 
 
 
