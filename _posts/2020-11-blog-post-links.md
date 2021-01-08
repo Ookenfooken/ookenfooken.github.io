@@ -1,7 +1,7 @@
 ---
 title: 'External blog links'
 date: 2020-11-01
-permalink: /posts/2020/11/blog-post-2/
+permalink: /posts/2020/11/blog-post-1/
 tags:
   - SciComm
   - Outreach

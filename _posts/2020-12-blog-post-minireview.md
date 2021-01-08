@@ -1,7 +1,7 @@
 ---
 title: 'The Role of Eye Movements in Manual Interception: A Mini-Review'
 date: 2020-12-2
-permalink: /posts/2020/12/blog-post-1/
+permalink: /posts/2020/12/blog-post-2/
 tags:
   - Eye-hand coordination
   - Manual interception
