@@ -32,11 +32,11 @@ Conference Posters
 
 Workshop Presentations
 ------
-* <b>Fooken, J.</b>, & Spering, M. (2019, July). Pursuit initiation as the earliest readout of decision formation. Gordon Research Conference on Eye Movements. Lewiston, ME.
-* <b>Fooken, J.</b> & Spering, M. (2018, May). To swing or not to swing? The role of eye movements and simple heuristics when making ultra-fast decisions in a go/no-go manual interception task. Satellite 1: CAPnet/CPS of the 12th Annual Canadian Neuroscience Meeting, Vancouver, BC, Canada.
-* <b>Fooken, J.</b> & Spering, M. (2016, June). Eye movements predict hand movements of baseball palyers in track-intercept task. Talk at the Annual Meeting of the North American Society of sport Psychology & Physical Activity (NASPSPA). Montreal, QC. 
-* <b>Fooken, J.</b>, Yeo, S.-H., Pai, D. K., & Spering, M. (2015, July). Accurate smooth pursuit eye movements lead more accurate manual interceptions. Gordon Research Conference on Eye Movements. Bentley University, MA.
-* <b>Fooken, J.</b>, Yeo, S.-H., Pai, D. K., & Spering, M. (2015, May). Accurate smooth pursuit eye movements lead to earlier and more accurate manual interceptions. Satellite 1: CAPnet/CPS of the 9th Annual Canadian Neuroscience Meeting, Vancouver, BC, Canada.
+* <b>Fooken, J.</b>, & Spering, M. (2019, July). Pursuit initiation as the earliest readout of decision formation. Talk at Gordon Research Conference on Eye Movements. Lewiston, ME.
+* <b>Fooken, J.</b> & Spering, M. (2018, May). To swing or not to swing? The role of eye movements and simple heuristics when making ultra-fast decisions in a go/no-go manual interception task. Talk at Satellite 1: CAPnet/CPS of the 12th Annual Canadian Neuroscience Meeting, Vancouver, BC, Canada.
+* <b>Fooken, J.</b> & Spering, M. (2016, June). Eye movements predict hand movements of baseball palyers in track-intercept task. Talk at skill acquisition workshop at the Annual Meeting of the North American Society of sport Psychology & Physical Activity (NASPSPA). Montreal, QC. 
+* <b>Fooken, J.</b>, Yeo, S.-H., Pai, D. K., & Spering, M. (2015, July). Accurate smooth pursuit eye movements lead more accurate manual interceptions. Poster at Gordon Research Conference on Eye Movements. Bentley University, MA.
+* <b>Fooken, J.</b>, Yeo, S.-H., Pai, D. K., & Spering, M. (2015, May). Accurate smooth pursuit eye movements lead to earlier and more accurate manual interceptions. Poster at Satellite 1: CAPnet/CPS of the 9th Annual Canadian Neuroscience Meeting, Vancouver, BC, Canada.
 
 
 
