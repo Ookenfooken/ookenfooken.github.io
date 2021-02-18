@@ -17,7 +17,7 @@ author_profile: true
 
 Refereed Journal Articles 
 ------
-* Kinjo, H., <b>Fooken, J.,</b> & Spering, M. (2019). Do eye movements enhance visual memory retrieval? <i>Vision Research</i>. 176, 80-90. <a href="../files/KinjoEtAl.VisRes.2020.pdf">[pdf]</a> 
+* Kinjo, H., <b>Fooken, J.,</b> & Spering, M. (2020). Do eye movements enhance visual memory retrieval? <i>Vision Research</i>. 176, 80-90. <a href="../files/KinjoEtAl.VisRes.2020.pdf">[pdf]</a> 
 * <b>Fooken, J.</b> & Spering, M. (2020). Eye movements as a readout of sensorimotor decision processes. <i>Journal of Neurophysiology</i>, 123(4), 1439-1447. <a href="../files/FookenSpering.JNeurophys.2020.pdf">[pdf]</a> 
 * Murch, W. S., Limbrick-Oldfield, E. H., Ferrari, M. A., MacDonald, K. I., <b>Fooken, J.</b>, Cherkasova, M. V., Spering, M., & Clark, L. (2020). Zoned in or zoned out? Using mobile eye tracking to probe immersion in slot machine gambling. <i>Addiction</i>, 115(6), 1127-1138 <a href="../files/MurchEtAl.Addiction.2019.pdf">[pdf]</a>
 * <b>Fooken, J.</b> & Spering, M. (2019). Decoding go/no-go decisions from eye movements. <i>Journal of Vision</i>, 19(2):5, 1-13. <a href="../files/FookenSpering.JoV.2019.pdf">[pdf]</a>
@@ -29,6 +29,6 @@ Refereed Journal Articles
 
 Manuscripts in Preparation
 ------
-* <b>Fooken, J.,</b> Kreyenmeier, P. & Spering, M. (2020) The Role of Eye Movements in Manual Interception: A Mini-Review. Submitted to Vision Research. 
+* <b>Fooken, J.,</b> Kreyenmeier, P. & Spering, M. (2020) The Role of Eye Movements in Manual Interception: A Mini-Review. Accepted at Vision Research. 
 * Murch, W. S., Limbrick-Oldfield, E. H., Ferrari, M. A., MacDonald, K. I., <b>Fooken, J.,</b> Cherkasova, M. V., Spering, M., & Clark, L. (2020). Immersion in Gambling Affects Behavioural and Pupillary Responses to Outcomes on a Slot Machine. Submitted to Psychology of Addictive Behaviors.
 * <b>Fooken, J.,</b> Patel, P., McKeown, M.J., & Spering, M. (2020). Eye and hand movement characteristics during rapid go/no-go decisions in Parkinson’s disease. In preparation.
