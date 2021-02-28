@@ -9,7 +9,7 @@ tags:
   - Prediction
 ---
 
-We just submitted a mini-review on the role of eye movements during manual interception to Vision Research. This was a fun project that started as a neuroforum article and developed into a more comprehensive review.
+Our mini-review on the role of eye movements during manual interception has been accepted at Vision Research. This was a fun project that started as a neuroforum article and developed into a more comprehensive review.
 
 Why are we interested?
 ------
@@ -21,4 +21,4 @@ When comparing the relationship between eye and hand movements across different 
 
 Stay tuned
 ------
-Sounds interesting? I will provide an update as soon as we have heard from the reviewers. Until then, stay tuned. 
+Sounds interesting? We are just waiting for the production team to get back to us. Until then, stay tuned. 
