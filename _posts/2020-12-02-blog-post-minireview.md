@@ -9,7 +9,7 @@ tags:
   - Prediction
 ---
 
-Our mini-review on the role of eye movements during manual interception has been accepted at Vision Research. This was a fun project that started as a neuroforum article and developed into a more comprehensive review.
+Our mini-review on the role of eye movements during manual interception has been now been published at Vision Research. This was a fun project that started as a neuroforum article and developed into a more comprehensive review.
 
 Why are we interested?
 ------
@@ -18,7 +18,3 @@ To successfully catch a flying ball, we have to move our hands to the right plac
 A unified framework of eye-hand coordination in manual interception
 ------
 When comparing the relationship between eye and hand movements across different experiments from the literature a clear picture emerges: the link between eye and interceptive hand movements is modulated by the degree of motion predictability and visual certainty. When object motion is fully predictable (constant motion direction and speed) and visible, a correlation between eye and hand movement accuracy does not necessarily exist (de la Malla et al., 2017; Goettker et al., 2019). Instead, observers benefit from stabilized, foveal vision at the interception area to guide precise hand movements (e.g., Brenner & Smeets, 2011). Here the link between extraretinal feedforward signals and interceptive control appears to be weaker compared to the retinal signals. Conversely, when object motion follows a complex motion profile or is (temporarily) occluded from the observers’ view observers benefit from closely tracking the moving object with their eyes (e.g., Mrotek & Soechting, 2007; Fooken et al., 2016). Therefore, when visual certainty or motion predictability are low, retinal and extraretinal (efference copy) signals are both be crucial to estimate object motion for accurate interceptive control.
-
-Stay tuned
-------
-Sounds interesting? We are just waiting for the production team to get back to us. Until then, stay tuned. 
