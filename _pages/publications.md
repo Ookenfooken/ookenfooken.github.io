@@ -29,8 +29,3 @@ Refereed Journal Articles
 	<li> Palidis, D. J., Wyder-Hodge, P. A., <b>Fooken, J.</b>, & Spering, M. (2017). Distinct eye movement patterns enhance dynamic visual acuity. PLoS ONE 12(2):e0172061. doi:10.1371/journal.pone.0172061. <a href="../files/PalidisEtal.PLoSOne.2017.pdf"> [pdf] </a> </li>
 	<li> <b>Fooken, J.</b>, Yeo, S. H., Pai, D. K., & Spering, M. (2016). Eye movement accuracy determines natural interception strategies. <i>Journal of Vision</i>,16(14):1,1-15. <a href="../files/FookenEtal.JoV.2016.pdf">[pdf]</a> </li>
 </ol>
-
-Manuscripts in preparation
-------
-* Murch, W. S., Limbrick-Oldfield, E. H., Ferrari, M. A., MacDonald, K. I., <b>Fooken, J.,</b> Cherkasova, M. V., Spering, M., & Clark, L. (2020). Immersion in Gambling Affects Behavioural and Pupillary Responses to Outcomes on a Slot Machine. Submitted to Psychology of Addictive Behaviors.
-* <b>Fooken, J.,</b> Patel, P., McKeown, M.J., & Spering, M. (2020). Eye and hand movement characteristics during rapid go/no-go decisions in Parkinson’s disease. In preparation.
