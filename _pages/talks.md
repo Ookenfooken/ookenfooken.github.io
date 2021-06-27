@@ -7,6 +7,7 @@ author_profile: true
 Invited Talks
 ------
 <ol>
+<li> Adaptive eye-hand coordination during visually-guided actions. Hosted by James T. Enns, University of British Columbia, Vancouver, British Columbia, Canada. June 18, 2021.</li>
 <li> Decoding sensorimotor decisions from eye movements. Hosted by Martin Rolfs, Humboldt University of Berlin, Germany, September 18, 2020.</li>
 <li> Eye movement signatures during sensorimotor decisions. Hosted by Tobias Donner, University Medical Center Hamburg-Eppendorf, Germany, June 3, 2020.</li>
 <li> Eye movements as indicators of visual and sensorimotor processing. Hosted by Philippe Lefèvre, School of Engineering. Université Catholique de Louvain, Brussels, Belgium, July 23, 2019.</li>
@@ -22,6 +23,7 @@ Conference Talks
 
 Conference Posters
 ------
+* <b>Fooken, J.</b>, Patel, P., Jones, C.B., McKeown, M.J., & Spering, M. (2021). Eye movement deficits in Parkinson’s patients are compensated during go/no-go interceptions. <i>Journal of Vision</i>, in press.
 * Kinjo, H., <b>Fooken, J.</b>, & Spering, M. (2019). Are eye movements beneficial for memory retrieval?  <i>Journal of Vision</i>, 19(10), 39.
 * <b>Fooken, J.</b>, Mann, G.K., Jones, C.B., McKeown, M.J., & Spering, M. (2018). Eye and hand movement characteristics during rapid go/no-go decisions in Parkinson’s disease. Program No. 399.19/LL2. 2018 Neuroscience Meeting Planner. San Diego, CA: Society for Neuroscience, 2018, Online.
 * <b>Fooken, J.</b> & Spering, M. (2018). Pursuit eye movements enhance decision making and hitting accuracy in a go/no-go manual interception task. <i>Journal of Vision</i>, 18(10), 596.
