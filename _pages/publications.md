@@ -17,7 +17,7 @@ author_profile: true
 
 Preprints
 ------
-<p style="text-indent: 30px"> <b>Fooken, J.,</b> Patel, P., Jones, C.B., McKeown, M.J., & Spering, M. (2021). EPreservation of eye movements in Parkinson's disease is stimulus and task specific. <a href="https://www.biorxiv.org/content/10.1101/2021.08.17.456700v1.full">[link]</a> 
+<p style="text-indent: 30px"> <b>Fooken, J.,</b> Patel, P., Jones, C.B., McKeown, M.J., & Spering, M. (2021). Preservation of eye movements in Parkinson's disease is stimulus and task specific. <a href="https://www.biorxiv.org/content/10.1101/2021.08.17.456700v1.full">[link]</a> 
 </p>
 
 Refereed Journal Articles 
@@ -33,4 +33,3 @@ Refereed Journal Articles
 <li> Kreyenmeier, P., <b>Fooken, J.</b>, & Spering, M. (2017). Context effects on smooth pursuit and manual interception of a disappearing target. <i>Journal of Neurophysiology</i>, 118(1), 404-415. <a href="../files/KreyenmeierEtAl.JNeurophys.2017.pdf"> [pdf]</a> </li>
 <li> Palidis, D. J., Wyder-Hodge, P. A., <b>Fooken, J.</b>, & Spering, M. (2017). Distinct eye movement patterns enhance dynamic visual acuity. PLoS ONE 12(2):e0172061. doi:10.1371/journal.pone.0172061. <a href="../files/PalidisEtal.PLoSOne.2017.pdf"> [pdf] </a> </li>
 <li> <b>Fooken, J.</b>, Yeo, S. H., Pai, D. K., & Spering, M. (2016). Eye movement accuracy determines natural interception strategies. <i>Journal of Vision</i>,16(14):1,1-15. <a href="../files/FookenEtal.JoV.2016.pdf">[pdf]</a> </li>
-</ol>
