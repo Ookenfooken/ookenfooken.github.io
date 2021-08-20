@@ -7,6 +7,7 @@ author_profile: true
 Invited Talks
 ------
 <ol>
+<li> Adaptive eye-hand coordination supports vision and action. Hosted by Michael J. Carter, McMaster University, Hamilton, Ontario, Canada and Joshua Cashaback, University of Delaware, Newark, Delaware, United States, August 5, 2021 </li>
 <li> Adaptive eye-hand coordination during visually-guided actions. Hosted by James T. Enns, University of British Columbia, Vancouver, British Columbia, Canada. June 18, 2021.</li>
 <li> Decoding sensorimotor decisions from eye movements. Hosted by Martin Rolfs, Humboldt University of Berlin, Germany, September 18, 2020.</li>
 <li> Eye movement signatures during sensorimotor decisions. Hosted by Tobias Donner, University Medical Center Hamburg-Eppendorf, Germany, June 3, 2020.</li>
