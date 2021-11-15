@@ -9,6 +9,10 @@ tags:
 ---
 I have made several contributions to science and non-science related blogs. Find out more. 
 
+The eyes have it: From the laboratory to the (sports) field 
+======
+My long time collaborator Philipp Kreyenmeier and I wrote a little piece on the role of eye movement in ball sports for <i>Neuropsyched</i>, a graduate-student led science blog:<br>
+<a href= "https://www.neuropsyched.ca/fall-2021/the-eyes-have-it-from-the-lab-to-the-sports-field"> The eyes have it </a>
 
 Sex Differences are no Afterthought
 ======
