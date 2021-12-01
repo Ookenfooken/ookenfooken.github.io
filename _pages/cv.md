@@ -55,7 +55,7 @@ Physics Laboratory for Medical Students: Practical demonstrations of simple phys
 Conference Participation
 ------
 * Elected chair for <b>Eye Movements – Gordon Research Seminar 2021</b> at Mount Holyoke College, South Hadley MA, USA. Responsibilities include working closely together with the Gordon Research Conference Chairs to fundraise the bi-annual meeting, compose the scientific program, invite speakers, and select discussion leaders. Additionally, I host monthly virtual meetups (Science Chat) for early-career researchers and run the GRC twitter account.
-* Invited session chair at the Vision Sciences Society 2021 Annual Meeting (virtual). <b>Eye movements: Saccades, pursuit, vergence.</b>
+* Invited session chair at the <b>Vision Sciences Society 2021 Annual Meeting (virtual)</b>. Moderated talk session: Eye movements: Saccades, pursuit, vergence.
 
 Supervision and Mentoring
 ------
