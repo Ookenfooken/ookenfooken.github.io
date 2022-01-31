@@ -20,12 +20,12 @@ Preprints
 <!--<p style="text-indent: 30px"> -->
 <ol> 
 <li> Kreyenmeier, P., Kaemmer, L., <b>Fooken, J.,</b>, & Spering, M. (2021). Humans can track but fail to predict accelerating objects. <a href="https://www.biorxiv.org/content/10.1101/2021.11.20.469397v1">[link]</a> </li>
-<li> <b>Fooken, J.,</b> Patel, P., Jones, C.B., McKeown, M.J., & Spering, M. (2021). Preservation of eye movements in Parkinson's disease is stimulus and task specific. <a href="../files/FookenEtAl.JNeurosci.2021.pdf">[Accepted J Neurosci]</a> </li> 
 </ol>
 
 Refereed Journal Articles 
 ------
 <ol>
+<li> <b>Fooken, J.,</b> Patel, P., Jones, C.B., McKeown, M.J., & Spering, M. (2021). Preservation of eye movements in Parkinson's disease is stimulus and task specific. <a href="../files/FookenEtAl.JNeurosci.2022.pdf">[pdf]</a> </li> 
 <li> <b>Fooken, J.,</b> Kreyenmeier, P. & Spering, M. (2021) The Role of Eye Movements in Manual Interception: A Mini-Review. <i>Vision Research</i>. 183, 81-90.  <a href="../files/FookenKreyenmeierSpering.VisRes.2021.pdf">[pdf]</a> </li>
 <li> Kinjo, H., <b>Fooken, J.,</b> & Spering, M. (2020). Do eye movements enhance visual memory retrieval? <i>Vision Research</i>. 176, 80-90. <a href="../files/KinjoEtAl.VisRes.2020.pdf">[pdf]</a> </li>
 <li> <b>Fooken, J.</b> & Spering, M. (2020). Eye movements as a readout of sensorimotor decision processes. <i>Journal of Neurophysiology</i>, 123(4), 1439-1447. <a href="../files/FookenSpering.JNeurophys.2020.pdf">[pdf]</a> </li>
