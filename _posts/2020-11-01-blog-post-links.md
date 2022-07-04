@@ -12,7 +12,7 @@ I have made several contributions to science and non-science related blogs. Find
 An interview about my experience as a postdoctoral fellow in Canada
 ======
 I was interviewed by the German Research Foundation (DFG) to talk about my postdoc experience in Canada <br>
-<a href= "https://www.dfg.de/dfg_profil/geschaeftsstelle/dfg_praesenz_ausland/nordamerika/berichte/2022/220513_gespraech_fooken/index.html> deutsche version </a> <br>
+<a href= "https://www.dfg.de/dfg_profil/geschaeftsstelle/dfg_praesenz_ausland/nordamerika/berichte/2022/220513_gespraech_fooken/index.html"> deutsche version </a> <br>
 <a href= "https://www.dfg.de/en/dfg_profile/head_office/dfg_abroad/north_america/reports/2022/220513_interview_fooken/index.html"> english version </a> <br>
 
 The eyes have it: From the laboratory to the (sports) field 
