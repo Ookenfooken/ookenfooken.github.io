@@ -30,7 +30,7 @@ It’s no problem at all! <br/>
 As we pick up the ball <br/>
 Our eyes shift ahead. <br/>
 Our eyes lead the hand <br/>
-There is no question yet. <br/> <br/>
+There is no question yet. <br/>
 
 I can pick up a ball. <br/>
 I can do it a lot. <br/>
@@ -39,7 +39,7 @@ And drop it into a slot. <br/>
 My eyes like the ball <br/>
 And my eyes like the slot <br/>
 They shift back and forth <br/>
-They do it a lot. <br/> <br/>
+They do it a lot. <br/>
 
 But that is not all! <br/>
 Oh no. <br/>
@@ -49,7 +49,7 @@ And I will look at the ball <br/>
 As I lift it up tall. <br/>
 I will not drop the ball, <br/>
 No, I will not. <br/>
-With my tool I can place the ball in the slot. <br/> <br/>
+With my tool I can place the ball in the slot. <br/>
 
 But that is not all! <br/>
 Oh no. <br/>
@@ -64,7 +64,7 @@ Oh no. That is no fun. <br/>
 It is no fun at all. <br/>
 Before I insert the ball in the slot <br/>
 My eyes like to see it. <br/>
-Oh, they like it a lot. <br/> <br/>
+Oh, they like it a lot. <br/>
 
 But that is not all! <br/>
 Oh no. <br/>
@@ -84,7 +84,7 @@ At the display a lot. <br/>
 But have no fear! <br/>
 Have no fear at all. <br/>
 I can figure it out <br/>
-When to look at the ball. <br/> <br/>
+When to look at the ball. <br/>
 
 Look! <br/>
 There was a change on the display. <br/>
