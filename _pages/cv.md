@@ -61,11 +61,11 @@ Supervision and Mentoring
 ------
 * Medicine students: Pooja Patel, Christian Schlappner, Andy Liu
 * Undergraduate students: Elizabeth Robichaud, Leslie Sun, Rose Shannon, Kiran Mann, Pearson Wyder-Hodge
-* Summer students: Svea Meyer, Philipp Kreyenmeier
+* Summer students: Nethmi Illamperuma, Svea Meyer, Philipp Kreyenmeier
 
 Peer-Reviewing Activities
 ------
-* Manuscripts: eLife, Journal of Vision, Journal of Neurophysiology, PLoS One, Journal of Experimental Psychology: Human Perception and Performance, Quarterly Journal of Experimental Psychology, Visual Cognition, Brain Sciences, Optometry and Vision Science, IEEE Transactions on Human-Machine Systems
+* Manuscripts: eLife, Journal of Vision, Journal of Neurophysiology, PLoS One, Human Movement Science, Journal of Experimental Psychology: Human Perception and Performance, Scientific Reports, Quarterly Journal of Experimental Psychology, Visual Cognition, Brain Sciences, Optometry and Vision Science, IEEE Transactions on Human-Machine Systems, Frontiers in Neuroscience, Psychological Research
 * Conference abstracts: Gordon Research Seminar on Eye Movements (2019)
 
 Service and Leadership
