@@ -16,11 +16,11 @@ By Dr. Foo’ss <br/>
 ------ <br/>
 I have some new findings. <br/>
 I will show them to you. <br/>
-I think you will not mind at all if I do. <br/> <br/>
+I think you will not mind at all if I do. <br/> 
 
 I know some good science you could read. <br/>
 Yes, I do. <br/>
-A lot of good science that will fascinate you. <br/> <br/>
+A lot of good science that will fascinate you. <br/> 
 
 We look! <br/>
 As we pick up a ball. <br/>
