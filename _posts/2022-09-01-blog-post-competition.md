@@ -9,15 +9,15 @@ tags:
   - Multi-tasking
 ---
 
-I am currently working on a DFG funded research project on <i>Gaze and motor control – Patterns of Coordination</i>. I have written a little poem inspired by <blockquote The Cat in the Hat </blockquote> by Dr. Seuss.
+I am currently working on a DFG funded research project on <i>Gaze and motor control – Patterns of Coordination</i>. I have written a little poem inspired by "The Cat in the Hat" by Dr. Seuss.
 
-Adaptive eye-hand coordination when manipulating and monitoring the environment in parallel \n
+Adaptive eye-hand coordination when manipulating and monitoring the environment in parallel <br/>
 By Dr. Foo’ss
 ------
-I have some new findings. \n
-I will show them to you. \n
-I think you will not mind at all if I do. \n \n
+I have some new findings. <br/>
+I will show them to you. <br/>
+I think you will not mind at all if I do. <br/> <br/>
 
-I know some good science you could read. \n
-Yes, I do. \n
-A lot of good science that will fascinate you. \n
+I know some good science you could read. <br/>
+Yes, I do. <br/>
+A lot of good science that will fascinate you. <br/>
