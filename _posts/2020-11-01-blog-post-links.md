@@ -7,7 +7,12 @@ tags:
   - Outreach
   - Blogs
 ---
-I have made several contributions to science and non-science related blogs. Find out more. 
+I have made several contributions to science and non-science related blogs and podcasts. Find out more. 
+
+My podcast interview with Chris Cuhls on <i> What’s Next? — Events im Wandel </i> about how eye tracking may be useful for event desgin
+======
+Note, the interview is in German! 
+<a href= "https://www.dfg.de/dfg_profil/geschaeftsstelle/dfg_praesenz_ausland/nordamerika/berichte/2022/220513_gespraech_fooken/index.html"> WNE045: SEHEN — Ästhetische Gestaltung </a> <br>
 
 An interview about my experience as a postdoctoral fellow in Canada
 ======
@@ -34,3 +39,5 @@ Non-science blog
 ======
 I keep a non-science related blog. Basically just a collection of randomness.<br>
 <a href= "http://ookenfooken.blogspot.com"> Anekdoten Sammelsurium and other nonsense </a>
+
+https://ablaufregisseur.de/jolande-fooken-whats-next-events-im-wandel-wne045/
