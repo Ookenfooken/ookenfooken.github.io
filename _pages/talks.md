@@ -7,6 +7,12 @@ author_profile: true
 Invited Talks
 ------
 <ol>
+<li> Acting while perceiving: Adaptive eye-hand coordination in multi-tasking. Hosted by Alexander Goettker for Current Topics in Perception and Cognition seminar series, Justus-Liebig-Universität Giessen, Germany. December 14, 2022 </li>
+<li> Eye-hand coordination in goal-directed behaviour. Hosted by Markus Lappe, Westfälische Wilhelms-University, Münster, Germany. December 14, 2021. </li>
+<li> Eye-hand coordination during visually-guided actions. Hosted by Anita Tusche, Queen’s University, Kingston, Ontario, Canada. November 24, 2021. </li>
+<li> Preservation of eye movements in Parkinson’s disease is stimulus and task specific. Hosted by Stephanie Rossit and Fraser Smith, University of East Anglia, Norwich, United Kingdom. November 10, 2021. </li>
+<li> Preservation of eye movements in Parkinson’s disease is stimulus and task specific. Hosted by Ulrich Ettinger, Bonn University, Germany. October 26, 2021. </li>
+<li> Adaptive eye-hand coordination during visually-guided actions. Hosted by Katja Fiehler, Justus-Liebig University, Giessen, Germany. October 18, 2021. </li>
 <li> Adaptive eye-hand coordination supports vision and action. Hosted by Michael J. Carter, McMaster University, Hamilton, Ontario, Canada and Joshua Cashaback, University of Delaware, Newark, Delaware, United States, August 5, 2021 </li>
 <li> Adaptive eye-hand coordination during visually-guided actions. Hosted by James T. Enns, University of British Columbia, Vancouver, British Columbia, Canada. June 18, 2021.</li>
 <li> Decoding sensorimotor decisions from eye movements. Hosted by Martin Rolfs, Humboldt University of Berlin, Germany, September 18, 2020.</li>
@@ -18,13 +24,16 @@ Invited Talks
 
 Conference Talks
 ------
+* Kreyenmeier, P., Kämmer, L., <b>Fooken, J.</b>, & Spering, M. (2021). Humans can smoothly pursue but fail to intercept accelerating targets. Journal of Vision, 21(9), 2838.
 * <b>Fooken, J.</b>, & Spering, M. (2019). Eye Movement Signatures of Go/No-Go Decisions With Different Task Constraints. <i>Perception</i>, 48, 76.
 * <b>Fooken, J.</b>, & Spering, M. (2019). Eye decide: eye movement initiation relates to decision accuracy in a go/no-go interception task. <i>Journal of Vision</i>, 19(10), 12a.
 * <b>Fooken, J.</b>, Lalonde, K. M., & Spering, M. (2016). When hand movements improve eye movement performance. <i>Journal of Vision</i>,16(12), 374.
 
 Conference Posters
 ------
-* <b>Fooken, J.</b>, Patel, P., Jones, C.B., McKeown, M.J., & Spering, M. (2021). Eye movement deficits in Parkinson’s patients are compensated during go/no-go interceptions. <i>Journal of Vision</i>, in press.
+* <b>Fooken, J.</b>, Johansson, R.S., & Flanagan, J.R. Adaptive gaze allocation when manipulating and monitoring the environment in parallel (2022). Program No. 2D-30. 31st Annual Meeting, Dublin, IR: Society for the Neural Control of Movement.
+* <b>Fooken, J.</b>, Johansson, R.S., & Flanagan, J.R. Adaptive gaze allocation when simultaneously manipulating and monitoring the environment. <i>Journal of Vision</i>, 22(14), 4388.
+* <b>Fooken, J.</b>, Patel, P., Jones, C.B., McKeown, M.J., & Spering, M. (2021). Eye movement deficits in Parkinson’s patients are compensated during go/no-go interceptions. <i>Journal of Vision</i>, 21(9), 2869.
 * Kinjo, H., <b>Fooken, J.</b>, & Spering, M. (2019). Are eye movements beneficial for memory retrieval?  <i>Journal of Vision</i>, 19(10), 39.
 * <b>Fooken, J.</b>, Mann, G.K., Jones, C.B., McKeown, M.J., & Spering, M. (2018). Eye and hand movement characteristics during rapid go/no-go decisions in Parkinson’s disease. Program No. 399.19/LL2. 2018 Neuroscience Meeting Planner. San Diego, CA: Society for Neuroscience, 2018, Online.
 * <b>Fooken, J.</b> & Spering, M. (2018). Pursuit eye movements enhance decision making and hitting accuracy in a go/no-go manual interception task. <i>Journal of Vision</i>, 18(10), 596.
@@ -35,6 +44,8 @@ Conference Posters
 
 Workshop Presentations
 ------
+* <b>Fooken, J.</b>, Johansson, R.S., & Flanagan, J.R. (2022, June). Adaptive eye-hand coordination when manipulating and monitoring the environment in paralle. Poster presented at the Vision Research Conference: From Picture to Reality, from Observer to Agent, York University, ON, Canada.
+* <b>Fooken, J.</b>, Johansson, R.S., & Flanagan, J.R. (2022, May). Adaptive gaze allocation when simultaneously manipulating and monitoring the environment. Poster presented at the Centre for Vision Science Symposium on Active Vision, Rochester, NY, USA.
 * <b>Fooken, J.</b>, & Spering, M. (2019, July). Pursuit initiation as the earliest readout of decision formation. Talk at Gordon Research Conference on Eye Movements. Lewiston, ME.
 * <b>Fooken, J.</b> & Spering, M. (2018, May). To swing or not to swing? The role of eye movements and simple heuristics when making ultra-fast decisions in a go/no-go manual interception task. Talk at Satellite 1: CAPnet/CPS of the 12th Annual Canadian Neuroscience Meeting, Vancouver, BC, Canada.
 * <b>Fooken, J.</b> & Spering, M. (2016, June). Eye movements predict hand movements of baseball palyers in track-intercept task. Talk at skill acquisition workshop at the Annual Meeting of the North American Society of sport Psychology & Physical Activity (NASPSPA). Montreal, QC. 
