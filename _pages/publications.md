@@ -25,7 +25,8 @@ Preprints
 Refereed Journal Articles 
 ------
 <ol> 
-<li> Moskowitz, J. B., Berger, S. A., ,b.Fooken, J.,</b> Castelhano, M. S., Gallivan, J. P., & Flanagan, J.R. (2023). The influence of movement-related costs when searching to act and acting to search. <i>Journal of Neurophysiology</i>. 129(1), 115-130. <a href="../files/MoskowitzEtAl.JNP.2023.pdf">[pdf]</a> </li> 
+<li> Moskowitz, J. B., <b>Fooken, J.,</b> Castelhano, M. S., Gallivan, J. P., & Flanagan, J.R. (2023). Visual search for reach targets in actionable space is influenced by movement costs imposed by obstacles. <i>Journal of Vision</i>. 23(6):4, 1-17. <a href="../files/MoskowitzEtAl.JoV.2023.pdf">[pdf]</a> </li> 
+<li> Moskowitz, J. B., Berger, S. A., <b>Fooken, J.,</b> Castelhano, M. S., Gallivan, J. P., & Flanagan, J.R. (2023). The influence of movement-related costs when searching to act and acting to search. <i>Journal of Neurophysiology</i>. 129(1), 115-130. <a href="../files/MoskowitzEtAl.JNP.2023.pdf">[pdf]</a> </li> 
 <li> Kreyenmeier, P., Kaemmer, L., <b>Fooken, J.,</b>, & Spering, M. (2022). Humans can track but fail to predict accelerating objects. <i>eNeuro</i>, 9(5), 1-15. <a href="../files/KreyenmeierEtAl.eNeuro.pdf">[pdf]</a> </li> 
 <li> Kim, A. J., Murch, W. S., Limbrick-Oldfield, E. H., Ferrari, M. A., MacDonald, K. I., <b>Fooken, J.</b>, Cherkasova, M. V., Spering, M., & Clark, L. (2022). Do pupillary responses during authentic slot machine use reflect arousal or screen luminance fluctuations? A proof-of-concept study. <i>PLoS ONE</i>, 17(7), e0272070 <a href="../files/KimEtAl.PlosONE.2022.pdf">[pdf]</a> </li> 
 <li> <b>Fooken, J.,</b> Patel, P., Jones, C.B., McKeown, M.J., & Spering, M. (2021). Preservation of eye movements in Parkinson's disease is stimulus and task specific. <i>Journal of Neuroscience</i>. 42(3), 487-499. <a href="../files/FookenEtAl.JNeurosci.2022.pdf">[pdf]</a> </li> 
