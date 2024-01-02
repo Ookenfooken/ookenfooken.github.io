@@ -9,6 +9,11 @@ tags:
 ---
 I have made several contributions to science and non-science related blogs and podcasts. Find out more. 
 
+I am a parent. I am a scientist.  
+======
+I wrote a little piece about my experience of bringing my family to a conference for <i>The female Scientist</i>, a site that promotes and supports female researchers :<br>
+<a href= "https://thefemalescientist.com/article/jolande-fooken/3262/i-am-a-parent-i-am-a-scientist/"> Parent and scientist </a>
+
 My podcast interview with Chris Cuhls on <i> What’s Next? - Events im Wandel </i> about how eye tracking may be useful for event desgin
 ======
 Note, the interview is in German! 
