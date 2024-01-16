@@ -352,8 +352,12 @@ display: none;
 </div>
 
 
-<div id="land-atmosphere-interactions" class="section level2">
+<div id="Regressions-Diskontinuitäts-Analyse" class="section level2">
 <h2>Regressions-Diskontinuitäts-Analyse</h2>
 <p>Dies ist ein Beispiel wie die Wirksamkeit einer psychologischen Intervention anhand einer Regressions-Diskontinuitäts-Analyse evaluiert werden kann.</p>
-<div id="schedule-and-slides" class="section level3">
-<h3>Schedule and slides</h3>
+<div id="Intervention" class="section level3">
+<h3>Die psychologische Intervention</h3>
+```{r setup, include=FALSE}
+library(ggplot2)
+summary(cars)
+```
