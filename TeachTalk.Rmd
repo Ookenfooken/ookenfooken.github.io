@@ -6,3 +6,9 @@ Dies ist ein Beispiel wie die Wirksamkeit einer psychologischen Intervention anh
 
 KOMMT DANN NOCH
 
+### First stab at markdown
+
+```{r setup, include=FALSE}
+library(ggplot2)
+summary(cars)
+```
