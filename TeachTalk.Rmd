@@ -1,0 +1,477 @@
+## Land-Atmosphere Interactions
+
+Welcome to Land-Atmosphere Interactions - ENSC 480. In the last two decades, about one-third of all anthropogenic CO$_2$ emissions have been absorbed by the terrestrial biosphere. Understanding the processes that control this carbon uptake is key for projecting how the atmospheric CO$_2$ concentration will evolve. The goal of this course is to foster an interdisciplinary understanding of land-atmosphere interactions while acquiring the necessary technical skills for conducting terrestrial carbon cycle research. For more information, please download the [syllabus](https://drive.google.com/file/d/1fjG57OMyd6dRqzmcTs0SW_H9_DuiOdeA/view?usp=sharing), explore the [tutorials](https://seiler-queensu.shinyapps.io/ENSC480/), and have a look at the slides that can be downloaded from the links in the table below.
+
+### Schedule and slides
+
+The following Table provides an overview of the topic, the modeling exercises and the due date for a group presentation. Please prepare each lecture by reading the corresponding chapter in your textbook. The Group IDs show what group will give a presentation, where the first group (e.g. 1.1) refers to the presentation of results from an in-class modeling exercise that was hold the week before, while the second group (e.g. 1.2) refers to the presentation of a scientific paper. Groups will be assigned randomly by September 18.
+
+|Week | Date | Topic | Read | Exercise | Groups|
+|:-|:-|:------|:-|:-|:-|
+|1 | Tue, Sep 5 | [Introduction](https://drive.google.com/file/d/16nVrFcM3GKT59az0qmhhcDt0NLoBBt06/view?usp=sharing) | Ch. 1 |  - | - |
+|2 | Tue, Sep 12 | [Thermodynamics](https://drive.google.com/file/d/1IazgectFdIEjo9DK4Y6WzzajENIkCOHY/view?usp=drive_link) | Ch. 2 |  1 | - |
+|3 | Tue, Sep 19 | [Chemical reactions](https://drive.google.com/file/d/1AReRryZzr1Y-XKd5qWmrxeA1ZWedqEDE/view?usp=drive_link) | Ch. 3  |  2 | - |
+|4 | Tue, Sep 26 | [Control over metabolic fluxes](https://drive.google.com/file/d/16vJCJ9DyItyqPdpn8YCPuHGgeVGN7Icm/view?usp=drive_link) | Ch. 4  | 3 | 1.1, 1.2 |
+|5 | Tue, Oct 3 | [Modeling the metabolic CO$_2$ flux](https://drive.google.com/file/d/1to-gE2_Vis-NmW8kEd4mRopRg4MU4G2r/view?usp=drive_link) | Ch. 5  | 4 | 2.1, 2.2 |
+|6 | Tue, Oct 10 | Reading week  |  - | - | - |
+|7 | Tue, Oct 17 | Mid-term exam | - |  - | - |
+|8 | Tue, Oct 24 | [Molecular diffusion](https://drive.google.com/file/d/1SA2_cV3DQUcz95U-Z9DaEwNq9Td1207u/view?usp=drive_link) | Ch. 6 | 5 | 3.1, 3.2 |
+|9 | Tue, Oct 31 | [Boundary layer and stomatal control](https://drive.google.com/file/d/14dT97jGSXacuVUpW5kjt7RQS9krP_wl8/view?usp=drive_link) | Ch. 7 | 6 | 4.1, 4.2 |
+|10 | Tue, Nov 7|  [Water transport](https://drive.google.com/file/d/1Ae4fNXvGd5BPnO_5f19iYuHikjFM2bak/view?usp=drive_link) | Ch. 9 | 7 | 5.1, 5.2 |
+|11 | Tue, Nov 14 | [Energy budgets](https://drive.google.com/file/d/1tB0IhhynTBAVbCaD4s15lAql56Vsbpl5/view?usp=drive_link) | Ch. 10 | 8 | 6.1, 6.2 |
+|12 | Tue, Nov 21 | [Canopy structure and radiative transfer](https://drive.google.com/file/d/1o0O3fXw8P3kUClwS-keuj2GottST11xr/view?usp=drive_link) | Ch. 11 | 9 | 7.1, 7.2 |
+|13 | Tue, Nov 28 | [Turbulent fluxes](https://drive.google.com/file/d/1NG5BS0wSD6rShNjNXk8N_CBWUTHod7Jq/view?usp=drive_link) | Ch. 12-14 | 10 | 8.1, 8.2 |
+|14 | Tue, Dec 5 | [Soil fluxes of carbon and nitrogen](https://drive.google.com/file/d/1Sjghg9tcvYSLHraPDN8eZanvNBryOe2b/view?usp=drive_link) | Ch. 16 | 11 | 9.1, 9.2 |
+
+### Textbook
+
+Please obtain a copy of the following text book:
+
+Monson, R. and Baldocchi, D., 2014. Terrestrial biosphere-atmosphere fluxes. Cambridge University Press. https://doi.org/10.1017/CBO9781139629218. 
+
+The book contains a few minor mistakes, which I have listed [here](https://drive.google.com/file/d/1r9CKYdhNLD9Whf04l2yz2124PAzDvyOJ/view?usp=sharing).
+
+### Tutorials
+
+You can explore an online version of the tutorials [here](https://seiler-queensu.shinyapps.io/ENSC480/). This online version is for demonstration purposes only. To access the tutorials in class, please follow the steps below.
+
+* Install R from [here](https://posit.co/download/rstudio-desktop/) (If you already have R installed on you computer, please make sure it is the most recent version)
+* Install RStudio from [here](https://posit.co/download/rstudio-desktop/) (Note that R and RStudio are two different things. You need to install both, and both must be the most recent verison)
+* Start RStudio and install the following packages by typing the lines below into the RStudio console:
+
+```{r, echo = TRUE, eval=FALSE}
+install.packages("shiny")
+install.packages("latex2exp")
+install.packages("viridis")
+install.packages("magick")
+install.packages("pdftools")
+install.packages("latex2exp")
+install.packages("plantecophys")
+install.packages("sortable")
+install.packages("tinytex")
+tinytex::install_tinytex()
+
+install.packages("learnr")
+install.packages("gradethis")
+# if gradethis does not install, try:
+# install.packages("remotes")
+# remotes::install_github("rstudio/gradethis", force = TRUE)
+```
+
+* Go to the [ENSC 480 tutorial repository](https://github.com/cseilerQueens/ENSC480)
+* Click on the green "code" button and then hit the "Download ZIP" button. This will download the tutorial into your download folder
+* Go to your download folder and move the downloaded zip file to your folder of choice
+* Unzip the file and open "tutorial.Rmd" file in RStudio
+* Hit the "Run Document" button
+* If all went well, a new window opens with your tutorial
+
+### Accessing a Digital Research Alliance (DRA) High Performance Computer (HPC)
+
+* You will run numerical experiments using the Canadian Land Surface Scheme Including Biogeochemical Cycles ([CLASSIC](https://cccma.gitlab.io/classic_pages/)). The model is compiled on the Centre for Advanced Computing - Queen's University cluster. To access the cluster, you will receive an email from Queen's Centre for Advanced Computing (CAC) with information on how to activate your account. Once your account is active, you should be able to access the HPC by opening a terminal (e.g. powershell on windows) and typing the following:
+
+```{r, engine = 'bash', eval = FALSE}
+ssh -X sa119xxx@login.cac.queensu.ca
+```
+
+* Next, create a .ssh folder in your account on the HPC
+
+```{r, engine = 'bash', eval = FALSE}
+mkdir .ssh
+```
+
+* Next, you will set-up your computer in order to work with Visual Studio Code. The first step is to generate a public/private rsa key pair on your laptop. To do this, open a new terminal on your laptop (e.g. power shell on windows) and type ```ssh-keygen```. Note that this needs to be done on a local terminal, rather than a remote terminal that connects to the HPC.
+
+```{r, engine = 'bash', eval = FALSE}
+PS C:\Users\seile> ssh-keygen
+Enter file in which to save the key (C:\Users\seile/.ssh/id_rsa):
+Created directory 'C:\\Users\\seile/.ssh'.
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in C:\Users\seile/.ssh/id_rsa
+Your public key has been saved in C:\Users\seile/.ssh/id_rsa.pub
+```
+
+* On windows, You can see the ```.ssh``` folder when typing ```ls```. On a mac, you can see the ```.ssh``` folder when typing ```ls -a ```
+
+* Now you need to copy the public key from your laptop to the HPC. In your local terminal, go into the ```.ssh``` folder and use secure copy command ```scp``` to copy the key from your laptop to the HPC.
+
+```{r, engine = 'bash', eval = FALSE}
+cd .ssh
+scp id_rsa.pub sa119xxx@login.cac.queensu.ca:/global/home/sa119xxx/.ssh/
+```
+
+You can check whether the file ```id_rsa.pub``` has been successfully copied by logging onto the server and looking into the ```.ssh``` folder:
+
+```{r, engine = 'bash', eval = FALSE}
+cd .ssh
+ssh -X sa119xxx@login.cac.queensu.ca
+ls .ssh
+```
+
+* Next, install Visual Studio Code on your laptop from [here](https://code.visualstudio.com)
+* In Visual Studio Code, install the extensions [Remote-SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh), [Remote-Explorer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer), [R](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r), and 
+[HTML Preview](https://marketplace.visualstudio.com/items?itemName=george-alisson.html-preview-vscode). 
+* More information on extensions can be found [here](https://code.visualstudio.com/docs/editor/extension-marketplace).
+* Next, create an empty file called config in your local ```.ssh``` folder. On a Mac, type:
+
+```{r, engine = 'bash', eval = FALSE}
+cd .ssh
+touch config
+```
+
+On windows, open your file explorer and create a new file in the ```C:\Users\xxx\.ssh``` folder. If you can't see the .ssh folder, click on ```view/show/hidden items```.
+
+* When you create an empty config file on Windows, it is likely called ```config.txt```. Rename the file from ```config.txt``` to ```config``` from the command line:
+
+```{r, engine = 'bash', eval = FALSE}
+mv config.txt config
+```
+
+* Once the config file has been creates, paste the following text inside it and replace ```sa119xxx``` wiuth your user name
+
+```{r, engine = 'bash', eval = FALSE}
+Host CAC-ENSC480
+    HostName login.cac.queensu.ca
+    User sa119xxx
+    IdentityFile ~/.ssh/id_rsa
+```
+
+
+* If all went well, you can now access the HPC using Visual Studio Code. Start Visual Studio Code, click on the Remote Explorer icon, and click on ```CAC-ENSC480```. A terminal that gives you access to the HPC will open.
+
+* Now your laptop is set-up to work with the HPC. All you need to do is open Visual Studio Code and click on the remote explorer icon.
+
+### Run CLASSIC on the Frontenac HPC
+
+* To run CLASSIC, you first need to copy a template folder from a shared directory to your local directory:
+
+```{r, engine = 'bash', eval = FALSE}
+cp -r /global/project/ENSC480_Shared/CourseFiles/template .
+```
+
+* 
+
+* Once you have this folder, the general workflow for running CLASSIC is as follows:
+
+(1) copy the template folder and give it a name that characterizes the simulation (e.g. spinup)
+
+(2) Go into the new folder (e.g. spinup) and edit the following files: ```classic_submit_gridCell.sh```, ```job_options.txt```, ```run_parameters.txt``` (details provided later)
+
+(2) Submit a job
+
+* Let's now implement this workflow for our first experiment described below.
+
+#### Edit user name and email address
+* Before copying the template folder to a new folder, let's first make some changes that apply to all simulations. You only need to do this once.
+* Go into the template folder
+* Open ```classic_submit_gridCell.sh```
+* Replace ```sa119014``` with your user name
+* Replace the email address with your email address
+* Open job_options.txt and job_options_spinup.txt
+* Replace ```sa119014``` with your user name
+* Now you are ready to run the model, following the steps outlined below.
+
+### Numerical modeling experiments
+
+The following Table gives an overview of the modeling exercises. The group numbers show which exercise is presented by which group. For instance, all students will conduct a simulation referred to as transient on week 3, but only group 1.1 will present their analysis. Their presentation takes place one week later, on week 4. This allows the group to have one week for preparing their presentation.
+
+Week | Exercise | Topic | Parameter | Assigned Group| 
+|:-|:-|:---------|:-|:-|
+|2 | 1 | Spinup | - | - |
+|3 | 2 | Transient | - | 1.1 |
+|4 | 3 | CO~2~-fertilization | transientCO2 | 2.1 |
+|5 | 4 | Maximum carboxylation rate | vmax | 3.1 |
+|8 | 5 | Canopy conductance | mm | 4.1 |
+|9 | 6 | Molecular diffusion | XLEAF | 5.1 |
+|10 | 7 | Soil hydrology | RHOSOL | 6.1 |
+|11 | 8 | Albedo | albvis | 7.1 |
+|12 | 9 | Beer's law | kn | 8.1 |
+|13 | 10 | Aerodynamic conductivity | ZRFH | 9.1 |
+|14 | 11 | Heterotrophic respiration | bsratesc | - |
+
+#### Exercise (1): Spinup run
+* Copy the template folder and call it spinup
+
+```{r, engine = 'bash', eval = FALSE}
+cp -r template spinup
+```
+
+* Go into the new spinup folder and edit the paths in  ```classic_submit_gridCell.sh```, replacing ```/global/home/sa119xxx/template/job_options_spinup.txt 120/65``` with ```/global/home/sa119xxx/spinup/job_options_spinup.txt 120/65```
+
+* Go into the new spinup folder and edit the paths in  ```job_options.txt```, replacing ```rs_file_to_overwrite ='/global/home/sa119xxx/template/rsFile.nc``` with ```rs_file_to_overwrite ='/global/home/sa119xxx/spinup/rsFile.nc```
+
+* Run the model by submitting a job:
+
+```{r, engine = 'bash', eval = FALSE}
+cd spinup
+sbatch classic_submit_gridCell.sh
+```
+
+* At this stage, you don't need to edit ```run_parameters.txt``` because we are not yet changing parameter values.
+
+* You can check the status of your run using the ```sq``` command:
+
+```{r, engine = 'bash', eval = FALSE}
+[sa119014@caclogin04 template]$ sq
+JOBID          PARTITION  NAME            USER     ST TIME       CPUS MIN_MEMORY NODELIST(REASON)
+6261239        standard   template        sa119014 R  5:05       24   10G        cac074
+```
+
+* You will receive an email once the job starts and once it ends. The run will take about 1:15h.
+
+* The model output consists of netcdf files. We will open these netcdf files in R and plot the output as time series. Jump to the Model output visualization section below to set this up. The next few sections outline the other modeling exercises.
+
+#### Exercise (2): Transient run
+
+* The spinup run forms the basis for all transient runs that we are going to do in this course
+* Each transient run will start from the restart file created by the spinup
+* To ensure that everyone has the correct spinup file, we will be using a file that is located in the shared folder
+* First, go to your template folder and open ```classic_submit_gridCell.sh```
+* Set the path to the ```job_options.txt``` file, rather than the ```job_options_spinup.txt``` file:
+
+```{r, engine = 'bash', eval = FALSE}
+/global/project/ENSC480_Shared/CourseFiles/classic/classic_code/CLASSIC/bin/CLASSIC_parallel_intel /global/home/sa119xxx/template/job_options.txt 120/65
+```
+
+* Copy the ```template``` folder to a new folder called ```transient```
+```{r, engine = 'bash', eval = FALSE}
+cp -r template transient
+```
+
+Go into the new ```transient``` folder and edit ```classic_submit_gridCell.sh``` and ```job_options.txt```, replacing the ```sa119xxx/template``` path with the ```sa119xxx/transient``` path
+
+* Run the model by submitting a job:
+
+```{r, engine = 'bash', eval = FALSE}
+cd transient
+sbatch classic_submit_gridCell.sh
+```
+
+* OK, so now we have a spinup run and a transient run. The following simulations will all be transient runs where where we either alter a model forcing variable, such as CO2 concentration, or a parameter value. Comparing those results against the transient run then shows what the impact of such alterations are.
+
+#### Exercise (3): CO~2~ fertilization effect
+
+* Copy thr ```template``` folder into a new folder called ```CO2```
+```{r, engine = 'bash', eval = FALSE}
+cp -r template CO2
+```
+
+* Go into the new ```CO2``` folder and edit ```classic_submit_gridCell.sh``` and ```job_options.txt```, replacing the ```sa119xxx/template``` path with the ```sa119xxx/CO2``` path
+* Go into the ```job_options.txt``` and replace ```transientCO2 =.true.``` with ```transientCO2 =.false.```
+* Submit your run ```sbatch classic_submit_gridCell.sh```
+
+#### Exercise (4): Maximum carboxylation rate
+* Apply same workflow as above, but this time we are going to change parameter values
+* To change parameter values, open ```run_parameters.txt``` and increase the maximum carboxylation (vmax) parameter values by replacing: 
+
+```{r, engine = 'bash', eval = FALSE}
+vmax(1:3)   = 42.0e-06, 47.0e-06, 0.00e-06,
+vmax(4:6)   = 35.0e-06, 57.0e-06, 40.0e-06,
+vmax(7:9)   = 55.0e-06, 40.0e-06, 0.00e-06,
+vmax(10:12) = 55.0e-06, 15.0e-06, 0.00e-06,
+```
+
+with larger values, such as:
+
+```{r, engine = 'bash', eval = FALSE}
+vmax(1:3)   = 43.0e-06, 48.0e-06, 0.00e-06,
+vmax(4:6)   = 36.0e-06, 58.0e-06, 41.0e-06,
+vmax(7:9)   = 56.0e-06, 41.0e-06, 0.00e-06,
+vmax(10:12) = 56.0e-06, 16.0e-06, 0.00e-06,
+```
+
+#### Exercise (5): Canopy conductance
+
+In CLASSIC, the canopy conductance $g_c$ (mol m$^{-2}$ s$^{-1}$) is estimated as follows (Melton and Arora, ):
+
+$g_c = m \frac{G_{canopy,net} p}{c_s - \Gamma} \frac{1}{1+V/V_o}+b LAI$,
+
+where $G_{canopy,net}$ is the net canopy photosynthetic rate (mol CO2 m$^{-2}$ s$^{-1}$), $c_s$ is the partial pressure of CO$_2$ at the leaf surface (Pa), $p$ is the surface atmospheric pressure (Pa), the parameter $m$ is set to 9.0 for needle-leaved trees, 12.0 for other C3 plants and 6.0 for C4 plants, parameter $b$ is assigned the values of 0.01 and 0.04 for C3 and C4 plants, respectively. $V$ is the vapour pressure deficit (Pa) and the parameter $V_o$ is set to 2000 Pa for trees and 1500 Pa for crops and grasses.
+
+Let's enhance canopy conductance by increasing the $m$ parameter values from:
+```{r, engine = 'bash', eval = FALSE}
+mm(1:3)   = 9.0, 9.0, 0.0,
+mm(4:6)   = 12.0,12.0,12.0,
+mm(7:9)   = 12.0, 6.0, 0.0,
+mm(10:12) = 12.0, 6.0, 0.0,
+```
+to
+```{r, engine = 'bash', eval = FALSE}
+mm(1:3)   = 10.0, 10.0, 0.0,
+mm(4:6)   = 13.0,13.0,13.0,
+mm(7:9)   = 13.0, 7.0, 0.0,
+mm(10:12) = 13.0, 7.0, 0.0,
+```
+
+#### Exercise (6): Molecular diffusion
+XLEAF, a leaf dimension factor used in calculating the leaf boundary
+resistance
+
+Replace 
+```XLEAF = 0.0247, 0.0204, 0.0456, 0.0456,``` with
+```XLEAF = 0.0300, 0.0300, 0.0500, 0.0500,```
+
+#### Exercise (7): Soil hydrology
+
+* Increase the particle density of soil mineral matter ($kg m^{-3}$) from ```RHOSOL = 2.65E3,``` to 
+```RHOSOL = 3.65E3,```
+
+#### Exercise (8): Albedo
+
+* Increase visible albedo from:
+
+```{r, engine = 'bash', eval = FALSE}
+!> visible albedos of the 9 ctem pfts
+albvis(1:3)     =  3.00, 3.00, 0.00,
+albvis(4:6)    =  3.00, 5.00, 5.00,
+albvis(7:9)   =  5.50, 5.50, 0.00,
+albvis(10:12)   =  5.00, 6.00, 0.00,
+```
+
+to:
+
+```{r, engine = 'bash', eval = FALSE}
+!> visible albedos of the 9 ctem pfts
+albvis(1:3)     =  4.00, 4.00, 0.00,
+albvis(4:6)    =  4.00, 6.00, 6.00,
+albvis(7:9)   =  6.50, 6.50, 0.00,
+albvis(10:12)   =  6.00, 7.00, 0.00,
+```
+
+#### Exercise (9): Beer's law
+
+In CLASSIC, the fraction of absorbed photosynthetically active radiation is expressed as a function of leaf area index (LAI; m$^2$ m$^{-2}$) and the dimensionless extinction coefficient ($k_n$):
+
+$f_{PAR} = \frac{1}{k_n} \left( 1 - \exp^{-k_nLAI} \right)$,
+
+This equation is based on the Beer's law (Equation 11.10, page 259). What do you expect to happen if we increase $k_n$? Do do this, replace:
+
+```{r, engine = 'bash', eval = FALSE}
+kn(1:3)    =0.50, 0.50, 0.00,
+kn(4:6)   =0.50, 0.50, 0.50,
+kn(7:9)  =0.40, 0.48, 0.00,
+kn(10:12)  =0.46, 0.44, 0.00,
+```
+
+with
+
+```{r, engine = 'bash', eval = FALSE}
+!Canopy light/nitrogen extinction coefficient
+kn(1:3)    =0.60, 0.60, 0.00,
+kn(4:6)   =0.60, 0.60, 0.60,
+kn(7:9)  =0.50, 0.58, 0.00,
+kn(10:12)  =0.56, 0.54, 0.00,
+```
+
+* Submit your run and copy your output to a new folder, e.g. kn
+
+#### Exercise (10): Aerodynamic conductivity
+
+* Increase reference height for energy variables and wind speed from ```ZRFH = 40.0,``` to ```ZRFH = 60.0,``` and ```ZRFM = 40.0,``` to ```ZRFM = 60.0,```. Note that these variables are defined in the ```job_optiions.txt``` file rather than the ```run_parameters.txt``` file.
+
+#### Exercise (11): Heterotrophic respiration
+
+Increase soil carbon carbon respiration rates at 15 Degrees C in kgC / kgC / year from
+
+```{r, engine = 'bash', eval = FALSE}
+bsratesc(1:3)     = 0.0260, 0.0260, 0.0000,
+bsratesc(4:6)    = 0.0208, 0.0208, 0.0208,
+bsratesc(7:9)   = 0.0350, 0.0350, 0.0000,
+bsratesc(10:12)   = 0.0125, 0.0125, 0.0000,
+```
+
+to:
+
+```{r, engine = 'bash', eval = FALSE}
+bsratesc(1:3)     = 0.0360, 0.0360, 0.0000,
+bsratesc(4:6)    = 0.0308, 0.0308, 0.0308,
+bsratesc(7:9)   = 0.0450, 0.0450, 0.0000,
+bsratesc(10:12)   = 0.0225, 0.0225, 0.0000,
+```
+
+    
+### Model output visualization
+
+* First you need to create a computational environment that contains some of the libraries that you will need. You do this by loading modules. Connect to the HPC and in a Visual Studio Code terminal type:
+
+```{r, engine = 'bash', eval = FALSE}
+module --force purge
+module load StdEnv/2020 gcc/9.3.0 openmpi/4.0.3
+module load netcdf-fortran-mpi
+module load r/4.0.2
+```
+
+* Note that you need to do this every time you start a new session
+* You can check whether the netcdf library is properly installed:
+
+```{r, engine = 'bash', eval = FALSE}
+which nc-config
+```
+
+* Start R by typing the letter "R" in the terminal
+* Install three R packages given below. Note that you need to do this only once. Choose "Yes" when asked whether to install those libraries locally. 
+
+```{r, eval = FALSE}
+install.packages("latex2exp", repos="https://cloud.r-project.org/")
+install.packages("ncdf4", repos="https://cloud.r-project.org/")
+install.packages("rmarkdown", repos="https://cloud.r-project.org/")
+```
+
+* Run the line below in your linux terminal to verify whether your R packages have been installed in your local directory:
+
+```{r, engine = 'bash', eval = FALSE}
+ls R/x86_64-pc-linux-gnu-library/4.0
+```
+
+* Copy the plotting script to your home director. In the terminal, type:
+```{r, engine = 'bash', eval = FALSE}
+cd
+cp /global/project/ENSC480_Shared/CourseFiles/plotSingleGridCell.Rmd .
+```
+
+* Edit the script by replacing the user name sa119014 to your user name and make sure that the directory that points to the output files:
+
+```{r, eval = FALSE}
+# Change this to your user name
+sa119xxx <- "sa119014"
+
+# This line gives the directory where your model output files are stored
+dataDir <- file.path(wd, "spinup/outputFiles")
+```
+
+* Knit and render the file by typing the followin line in a R console:
+```{r, eval = FALSE}
+rmarkdown::render("plotSingleGridCell.Rmd")
+```
+
+* This will produce a HTML file (plotSingleGridCell.html).
+* Open this HTML file and press the "Open preview to the side" button in the upper-right corner of your window. You can now see your model output, where each variable is plotted as a time series.
+* Scroll down until you see a Figure with the variable cSoil along the vertical axis. This Figure shows how soil organic carbon evolves in time. Does the shape of this curve tell you whether the model is spun up?
+* If you want to save images to your laptop, just make screenshots. If you want to copy files to your computer, use secure copy, as explained next.
+
+### Transfer data from the HPC to your laptop (optional)
+
+* Use secure copy (scp) to download files from the HPC to your laptop:
+
+```{r, engine = 'bash', eval = FALSE}
+scp -r SOURCE TARGET 
+```
+
+* To do this, open a terminal on your laptop and type:
+
+```{r, engine = 'bash', eval = FALSE}
+scp -r sa119xxx@login.cac.queensu.ca:/global/home/sa119xxx/myFile.sh . 
+```
+
+* This will copy the file myFile.sh from the HPC to the directory on your laptop in which you currently reside.
+
+### Additional information for students with a Digital Research Alliance (DRA) account
+* If you have a DRA account, you can copy-paste your SSH key as follows
+* Log into you DRA account: https://ccdb.alliancecan.ca
+* Copy the text of the public key:
+
+```{r, engine = 'bash', eval = FALSE}
+PS C:\Users\cseil> cat .ssh/id_rsa.pub
+```
+* Paste the content of your SSH public key from local machine to CCDB
+* You can now proceed with setting up your Visual Studio Code
