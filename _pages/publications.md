@@ -20,6 +20,7 @@ Preprints
 <!--<p style="text-indent: 30px"> -->
 <ol> 
 <li> <b>Fooken, J.,</b> Balalaie, P., Park, K., Flanagan, J. R., & Scott, S. H. (2024). Rapid eye and hand responses in an interception task are differentially modulated by context-dependent predictability. <a href="../files/FookenEtAl.2024_preprint.pdf">[bioRxiv]</a> </li> 
+<li> <b>Fooken, J.,</b> Johansson, S.R., & Flanagan, J. R. (2024). Adaptive gaze and hand coordination while manipulating and monitoring the environment in parallel. <a href="../files/FookenJohanssonFlanagan.bioRxiv.2024.pdf">[bioRxiv]</a> </li> 
 </ol>
 
 Refereed Journal Articles 
