@@ -9,6 +9,10 @@ tags:
 ---
 I have made several contributions to science and non-science related blogs and podcasts. Find out more. 
 
+My podcast interview with Paul Middlebrooks on <i> Brain Inspired </i> on how action and perception are coordinated in real-world action tasks.
+======
+<a href= "https://braininspired.co/podcast/188/"> Brain Inspired </a>
+
 I am a parent. I am a scientist.  
 ======
 I wrote a little piece about my experience of bringing my family to a conference for <i>The female Scientist</i>, a site that promotes and supports female researchers :<br>
@@ -17,7 +21,7 @@ I wrote a little piece about my experience of bringing my family to a conference
 My podcast interview with Chris Cuhls on <i> What’s Next? - Events im Wandel </i> about how eye tracking may be useful for event desgin
 ======
 Note, the interview is in German! 
-<a href= "https://ablaufregisseur.de/jolande-fooken-whats-next-events-im-wandel-wne045/"> WNE045: SEHEN - Ästhetische Gestaltung </a> <br>
+<a href= "https://ablaufregisseur.de/jolande-fooken-whats-next-events-im-wandel-wne045/"> WNE045: SEHEN -Ästhetische Gestaltung </a> <br>
 
 An interview about my experience as a postdoctoral fellow in Canada
 ======
