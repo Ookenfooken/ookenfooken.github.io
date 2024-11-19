@@ -19,13 +19,13 @@ Preprints
 ------
 <!--<p style="text-indent: 30px"> -->
 <ol> 
-<li> <b>Fooken, J.,</b> Balalaie, P., Park, K., Flanagan, J. R., & Scott, S. H. (2024). Rapid eye and hand responses in an interception task are differentially modulated by context-dependent predictability. <a href="../files/FookenEtAl.2024_preprint.pdf">[bioRxiv]</a> </li> 
 <li> <b>Fooken, J.,</b> Johansson, S.R., & Flanagan, J. R. (2024). Adaptive gaze and hand coordination while manipulating and monitoring the environment in parallel. <a href="../files/FookenJohanssonFlanagan.bioRxiv.2024.pdf">[bioRxiv]</a> </li> 
 </ol>
 
 Refereed Journal Articles 
 ------
 <ol> 
+<li> <b>Fooken, J.,</b> Balalaie, P., Park, K., Flanagan, J. R., & Scott, S. H. (2024). Rapid eye and hand responses in an interception task are differentially modulated by context-dependent predictability. <a href="../files/FookenEtAl.JoV.2024.pdf">[pdf]</a> </li> 
 <li> Illamperuma, N. H. & <b>Fooken, J.,</b> (2024). Towards a functional understanding of gaze in goal-directed action. <i>Journal of Neurophysiology</i>, Editorial Focus on "Sensorimotor prediction is used to direct gaze toward task-relevant locations in a goal-directed throwing task". <a href="../files/IllamperumaFooken.JNP.2024.pdf">[pdf]</a> </li> 
 <li> <b>Fooken, J.,</b> Baltaretu, B. R., Barany, D. A., Diaz, G., Semrau, J. A., Singh, T., & Crawford, J. D. (2023). Perceptual-cognitive integration for goal-directed action in naturalistic environments. <i>Journal of Neuroscience</i>. 43(45), 7511-7522. <a href="../files/FookenEtAl.JNeurosci.2023.pdf">[pdf]</a> </li> 
 <li> Moskowitz, J. B., <b>Fooken, J.,</b> Castelhano, M. S., Gallivan, J. P., & Flanagan, J. R. (2023). Visual search for reach targets in actionable space is influenced by movement costs imposed by obstacles. <i>Journal of Vision</i>. 23(6):4, 1-17. <a href="../files/MoskowitzEtAl.JoV.2023.pdf">[pdf]</a> </li> 
