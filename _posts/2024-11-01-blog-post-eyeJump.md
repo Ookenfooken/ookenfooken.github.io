@@ -1,5 +1,5 @@
 ---
-title: 'Acting while perceiving: Where do we look when manipulating and monitoring the environment in parallel?'
+title: 'Rapid eye and hand responses when intercepting falling objects'
 date: 2022-09-1
 permalink: /posts/2022/09/blog-post-1/
 tags:
