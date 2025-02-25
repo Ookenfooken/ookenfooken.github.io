@@ -45,24 +45,24 @@ Workshop Presentations
 Invited Talks
 ------
 <ol>
-<li> <nbsp> On the coordination of eye and hand movements. Hosted by Karl Gegenfurtner, Justus-Liebig-Universität Giessen, Germany. February 18, 2025.
-<li> <nbsp> Patterns of eye-hand coordination in multi-tasking. Hosted by Loes van Dam and Thomas Wallis in Computational Cognitive Science Colloquium, TU Darmstadt, Germany. December 5, 2024.
-<li> <nbsp> Adaptive eye-hand coordination in real-world actions that compete for gaze. Uncertainty in Sensory Processing and Action Control Workshop, Schloss Rauischholzhausen, Germany. August 8, 2023.
-<li> <nbsp> Acting while perceiving: Adaptive eye-hand coordination in multi-tasking. Hosted by Tarkeshwar Singh in Action Club Talk Series, Penn State University, University Park, PA, United States. March 24, 2023.
-<li> <nbsp> Acting while perceiving: Adaptive eye-hand coordination in multi-tasking. Hosted by the Centre for Neuroscience Studies Seminar Series, Queen’s University, Kingston, ON, Canada. January 18, 2023. 
-<li> <nbsp> Acting while perceiving: Adaptive eye-hand coordination in multi-tasking. Hosted by Alexander Goettker in Current Topics in Perception and Cognition seminar series, Justus-Liebig-Universität Giessen, Germany. December 14, 2022 </li>
-<li> <nbsp> Eye-hand coordination in goal-directed behaviour. Hosted by Markus Lappe, Westfälische Wilhelms-University, Münster, Germany. December 14, 2021. </li>
-<li> <nbsp> Eye-hand coordination during visually-guided actions. Hosted by Anita Tusche, Queen’s University, Kingston, Ontario, Canada. November 24, 2021. </li>
-<li> <nbsp> Preservation of eye movements in Parkinson’s disease is stimulus and task specific. Hosted by Stephanie Rossit and Fraser Smith, University of East Anglia, Norwich, United Kingdom. November 10, 2021. </li>
-<li> <nbsp> Preservation of eye movements in Parkinson’s disease is stimulus and task specific. Hosted by Ulrich Ettinger, Bonn University, Germany. October 26, 2021. </li>
-<li> <nbsp> Adaptive eye-hand coordination during visually-guided actions. Hosted by Katja Fiehler, Justus-Liebig University, Giessen, Germany. October 18, 2021. </li>
-<li> <nbsp> Adaptive eye-hand coordination supports vision and action. Hosted by Michael J. Carter, McMaster University, Hamilton, Ontario, Canada and Joshua Cashaback, University of Delaware, Newark, Delaware, United States, August 5, 2021 </li>
-<li> <nbsp> Adaptive eye-hand coordination during visually-guided actions. Hosted by James T. Enns, University of British Columbia, Vancouver, British Columbia, Canada. June 18, 2021.</li>
-<li> <nbsp> Decoding sensorimotor decisions from eye movements. Hosted by Martin Rolfs, Humboldt University of Berlin, Germany, September 18, 2020.</li>
-<li> <nbsp> Eye movement signatures during sensorimotor decisions. Hosted by Tobias Donner, University Medical Center Hamburg-Eppendorf, Germany, June 3, 2020.</li>
-<li> <nbsp> Eye movements as indicators of visual and sensorimotor processing. Hosted by Philippe Lefèvre, School of Engineering. Université Catholique de Louvain, Brussels, Belgium, July 23, 2019.</li>
-<li> <nbsp> Linking eye movements to visual predictions. Centre for Neuroscience. Hosted by Randy Flanagan, Queen’s University, Kingston, Ontario, Canada, February 20, 2019.</li>
-<li> <nbsp> Linking eye movements to visual predictions. Hosted by Stefanie Becker, School of Psychology. University of Queensland, Brisbane, Queensland, Australia, August 20, 2018.</li>
+<li> &nbsp; On the coordination of eye and hand movements. Hosted by Karl Gegenfurtner, Justus-Liebig-Universität Giessen, Germany. February 18, 2025.
+<li> &nbsp; Patterns of eye-hand coordination in multi-tasking. Hosted by Loes van Dam and Thomas Wallis in Computational Cognitive Science Colloquium, TU Darmstadt, Germany. December 5, 2024.
+<li> &nbsp; Adaptive eye-hand coordination in real-world actions that compete for gaze. Uncertainty in Sensory Processing and Action Control Workshop, Schloss Rauischholzhausen, Germany. August 8, 2023.
+<li> &nbsp; Acting while perceiving: Adaptive eye-hand coordination in multi-tasking. Hosted by Tarkeshwar Singh in Action Club Talk Series, Penn State University, University Park, PA, United States. March 24, 2023.
+<li> &nbsp; Acting while perceiving: Adaptive eye-hand coordination in multi-tasking. Hosted by the Centre for Neuroscience Studies Seminar Series, Queen’s University, Kingston, ON, Canada. January 18, 2023. 
+<li> &nbsp; Acting while perceiving: Adaptive eye-hand coordination in multi-tasking. Hosted by Alexander Goettker in Current Topics in Perception and Cognition seminar series, Justus-Liebig-Universität Giessen, Germany. December 14, 2022 
+<li> &nbsp; Eye-hand coordination in goal-directed behaviour. Hosted by Markus Lappe, Westfälische Wilhelms-University, Münster, Germany. December 14, 2021. 
+<li> &nbsp; Eye-hand coordination during visually-guided actions. Hosted by Anita Tusche, Queen’s University, Kingston, Ontario, Canada. November 24, 2021. 
+<li> &nbsp; Preservation of eye movements in Parkinson’s disease is stimulus and task specific. Hosted by Stephanie Rossit and Fraser Smith, University of East Anglia, Norwich, United Kingdom. November 10, 2021. 
+<li> &nbsp; Preservation of eye movements in Parkinson’s disease is stimulus and task specific. Hosted by Ulrich Ettinger, Bonn University, Germany. October 26, 2021.
+<li> &nbsp; Adaptive eye-hand coordination during visually-guided actions. Hosted by Katja Fiehler, Justus-Liebig University, Giessen, Germany. October 18, 2021. 
+<li> &nbsp; Adaptive eye-hand coordination supports vision and action. Hosted by Michael J. Carter, McMaster University, Hamilton, Ontario, Canada and Joshua Cashaback, University of Delaware, Newark, Delaware, United States, August 5, 2021 
+<li> &nbsp; Adaptive eye-hand coordination during visually-guided actions. Hosted by James T. Enns, University of British Columbia, Vancouver, British Columbia, Canada. June 18, 2021.
+<li> &nbsp; Decoding sensorimotor decisions from eye movements. Hosted by Martin Rolfs, Humboldt University of Berlin, Germany, September 18, 2020.
+<li> &nbsp; Eye movement signatures during sensorimotor decisions. Hosted by Tobias Donner, University Medical Center Hamburg-Eppendorf, Germany, June 3, 2020.
+<li> &nbsp; Eye movements as indicators of visual and sensorimotor processing. Hosted by Philippe Lefèvre, School of Engineering. Université Catholique de Louvain, Brussels, Belgium, July 23, 2019.
+<li> &nbsp; Linking eye movements to visual predictions. Centre for Neuroscience. Hosted by Randy Flanagan, Queen’s University, Kingston, Ontario, Canada, February 20, 2019.
+<li> &nbsp; Linking eye movements to visual predictions. Hosted by Stefanie Becker, School of Psychology. University of Queensland, Brisbane, Queensland, Australia, August 20, 2018.
 
 
 
