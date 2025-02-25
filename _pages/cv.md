@@ -17,14 +17,22 @@ Academic Track
 
 Education
 ------
-* <b>B.Sc.</b> in Physics from RWTH University Aachen, Germany (August 2010)
-* <b>M.Sc.</b> in Biomedical Engineering from RWTH University Aachen (March 2013)
-* <b>M.Sc.</b> in Computer Science from University of British Columbia (August 2015)
-* <b>Ph.D.</b> in Neuroscience from University of British Columbia (July 2019)
+* <b>Ph.D.</b> in Neuroscience from University of British Columbia (July 2019) <br>
+	Thesis: <i>Eye movements as indicators of visual and cognitive processing</i> <br>
+	Advisor: Dr. Miriam Spering 
+* <b>M.Sc.</b> in Computer Science from University of British Columbia (August 2015) <br>
+	Thesis: <i>Accurate smooth pursuit eye movements lead to more accurate manual interceptions</i> <br>
+	Advisor: Dr. Dinesh Pai and Dr. Miriam Spering 
+* <b>M.Sc.</b> in Biomedical Engineering from RWTH University Aachen (March 2013) <br>
+	Thesis: <i>Functionalization, characterization and biocompatibility tests of liposome stabilized superparamagnetic iron oxide nanoparticles for magnetic drug targeting</i> <br>
+	Advisor: Dr. Martin Bauman and Dr. Ioana Slabu
+* <b>B.Sc.</b> in Physics from RWTH University Aachen, Germany (August 2010) <br>
+	Thesis: <i>Investigation of the magnetic properties of various tissue samples with and without magnetic nanoparticles by SQUID-magnetometry</i> <br>
+	Advisor: Dr. Gernot Güntherodt and Dr. Martin Baumann 
 
 Funding
 ------
-* <b>Deutsche Forschungsgemeinschaft</b> (DFG) Research Fellowship (grant FO 1347/1-1)
+* Deutsche Forschungsgemeinschaft (DFG) Research Fellowship (grant FO 1347/1-1)
 
 Placement by Hiring Committee
 ------
@@ -80,8 +88,8 @@ Peer-Reviewing Activities
 Service and Leadership
 ------
 * <b>Field hockey coach</b> for junior and women's league (September 2014-March 2018)
-* European <b>Summer School</b> in Visual Neuroscience, Giessen University, Germany (September 2016)
-* <b>Summer School</b> in Computational Sensory-Motor Neuroscience, Queens University, Canada (August 2013)
+* Participant in European <b>Summer School</b> in Visual Neuroscience, Giessen University, Germany (September 2016)
+* Participant in <b>Summer School</b> in Computational Sensory-Motor Neuroscience, Queens University, Canada (August 2013)
 * <b>Floor Warden</b>, Institute for Computing, Information and Cognitive Systems, UBC (October 2018-March 2020)
 * Local <b>Health and Safety</b> Committee, Blusson Spinal Cord Centre, ICORD (June 2016-April 2017)
 * <b>Space and Safety</b> Committee, Department of Computer Science, UBC (April 2014-August 2015)
