@@ -7,6 +7,7 @@ author_profile: true
 
 Conference Talks
 ------
+* <b>Fooken, J.</b>, Moraes , R., Flanagan, J.R., & Rothkopf, C.A. (2025). Old hands take more time: Healthy ageing is associated with subtle changes in visuomotor control when grasping and dropping objects. <i>Perception</i>, ECVP 2025.
 * <b>Fooken, J.</b>, Zhu, T., Gallivan, J.P., & Flanagan, J.R. (2024). Coordination of bimanual movements when acting on separate objects is shaped by competition for gaze. <i>Perception</i>, ECVP 2024.
 * <b>Fooken, J.</b>, Illamperuma, N.H., & Flanagan, J.R. (2024). Timing of eye and hand movements during reaching depends on functional demands of gaze. <i>Journal of Vision</i>, 24(10), 918.
 * <b>Fooken, J.</b> (2023). Adaptive eye-hand coordination in real-world actions. Program No. MIN23.03, Neuroscience Meeting Planner. Washington, D.C.: <i>Society for Neuroscience</i>, 2023. Online.
@@ -17,6 +18,7 @@ Conference Talks
 
 Conference Posters
 ------
+* <b>Fooken, J.</b> (2025). Eye-hand coordination in multiple object interception. Tagung experimentell arbeitender Psychologen: TeaP, Frankfurt, Germany.
 * <b>Fooken, J.</b>, Zhu, T., Piekkola, B., Gallivan, J.P., & Flanagan, J.R. (2023). The coordination of left-and right-hand movements when acting on separate objects is shaped by competition for gaze. Program No. 156.02/FF8. Neuroscience Meeting Planner. Washington, D.C.: <i>Society for Neuroscience, 2023. Online.
 * <b>Fooken, J.</b>, Johansson, R.S., & Flanagan, J.R. Adaptive gaze allocation when manipulating and monitoring the environment in parallel. Program No. 2D-30. 31st Annual Meeting, Dublin, IR: <i>Society for the Neural Control of Movement</i>, 2022. Online.
 * Kreyenmeier, P., Spering, M., & <b>Fooken, J.</b> (2023). Action-response mode modulates go/no-go decision accuracy. <i>Journal of Vision</i>, 23(9), 5818. 
@@ -32,6 +34,7 @@ Conference Posters
 
 Workshop Presentations
 ------
+* <b>Fooken, J.</b>, Midlagajni, N., & Rothkopf, C.A. (2025). Eye movement patterns when pouring liquid to match the fill level in two glasses. Poster at Gordon Research Conference on Eye Movements. Mount Holyoke College, MA, USA.
 * Illamperuma, N.H., Flanagan, J.R., & <b>Fooken, J.</b> (2024, March). Timing of eye and hand movements during reaching depends on functional demands of gaze. Talk presented at the Women in Neuro Conference, Queen’s University, Kingston, ON, Canada.
 * Balalaie, P., Park, K., Scott, S.H., & <b>Fooken, J.</b> (2023, December). Investigation of eye-hand coordination during rapid interception. Poster presented at the Vision Research Conference: The new vistas in vision research, York University, ON, Canada.
 * <b>Fooken, J.</b>, Johansson, R.S., & Flanagan, J.R. (2022, June). Adaptive eye-hand coordination when manipulating and monitoring the environment in paralle. Poster presented at the Vision Research Conference: From Picture to Reality, from Observer to Agent, York University, ON, Canada.
@@ -39,7 +42,7 @@ Workshop Presentations
 * <b>Fooken, J.</b>, & Spering, M. (2019, July). Pursuit initiation as the earliest readout of decision formation. Talk at Gordon Research Conference on Eye Movements. Lewiston, ME.
 * <b>Fooken, J.</b> & Spering, M. (2018, May). To swing or not to swing? The role of eye movements and simple heuristics when making ultra-fast decisions in a go/no-go manual interception task. Talk at Satellite 1: CAPnet/CPS of the 12th Annual Canadian Neuroscience Meeting, Vancouver, BC, Canada.
 * <b>Fooken, J.</b> & Spering, M. (2016, June). Eye movements predict hand movements of baseball palyers in track-intercept task. Talk at skill acquisition workshop at the Annual Meeting of the North American Society of sport Psychology & Physical Activity (NASPSPA). Montreal, QC. 
-* <b>Fooken, J.</b>, Yeo, S.-H., Pai, D. K., & Spering, M. (2015, July). Accurate smooth pursuit eye movements lead more accurate manual interceptions. Poster at Gordon Research Conference on Eye Movements. Bentley University, MA.
+* <b>Fooken, J.</b>, Yeo, S.-H., Pai, D. K., & Spering, M. (2015, July). Accurate smooth pursuit eye movements lead more accurate manual interceptions. Poster at Gordon Research Conference on Eye Movements. Bentley University, MA, USA.
 * <b>Fooken, J.</b>, Yeo, S.-H., Pai, D. K., & Spering, M. (2015, May). Accurate smooth pursuit eye movements lead to earlier and more accurate manual interceptions. Poster at Satellite 1: CAPnet/CPS of the 9th Annual Canadian Neuroscience Meeting, Vancouver, BC, Canada.
 
 Invited Talks
