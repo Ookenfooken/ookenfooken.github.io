@@ -29,15 +29,10 @@ I was interviewed by the German Research Foundation (DFG) to talk about my postd
 <a href= "https://www.dfg.de/dfg_profil/geschaeftsstelle/dfg_praesenz_ausland/nordamerika/berichte/2022/220513_gespraech_fooken/index.html"> deutsche version </a> <br>
 <a href= "https://www.dfg.de/en/dfg_profile/head_office/dfg_abroad/north_america/reports/2022/220513_interview_fooken/index.html"> english version </a> <br>
 
-The eyes have it: From the laboratory to the (sports) field 
-======
-My long time collaborator Philipp Kreyenmeier and I wrote a little piece on the role of eye movement in ball sports for <i>Neuropsyched</i>, a graduate-student led science blog:<br>
-<a href= "https://www.neuropsyched.ca/fall-2021/the-eyes-have-it-from-the-lab-to-the-sports-field"> The eyes have it </a>
-
 Sex Differences are no Afterthought
 ======
 Two of my lab mates and I recently stumbled across an article that reported a "male advantage" during visuomotor tracking. We saw several problems with the study and blogged about our thoughts on the UBC's Women's Health Blog. If you cringe at the term "male advantage" in a visuomotor coordination task, read our article here:<br>
-<a href= "https://womenshealthresearch.ubc.ca/sex-differences-are-no-afterthought"> Sex Differences are no Afterthought </a>
+<a href= "https://womenshealthresearchcluster.com/learn/womens-health-blog/sex-differences-are-no-afterthought/"> Sex Differences are no Afterthought </a>
 
 Thriving in Grad School
 ======
