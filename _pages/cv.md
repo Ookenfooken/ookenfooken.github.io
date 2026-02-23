@@ -41,6 +41,7 @@ Placement by Hiring Committee
 
 Selected Awards
 ------
+* <b>Connect & Collaborate</b> from the Deutsche Gesellschaft für Psychologie (DGPs; Apr 2025)
 * <b>VSS Caregiver Support grant</b> at the Vision Sciences Society Annual Meeting (May 2024)
 * <b>Dr. Wilhelmy-GSO Travel Expenses Program</b> from the German Scholar Organization (February 2024)
 * <b>ECVP Travel Award</b> at the European Conference on Visual Perception (August 2019)
