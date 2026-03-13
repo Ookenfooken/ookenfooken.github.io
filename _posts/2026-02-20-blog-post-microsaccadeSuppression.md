@@ -9,7 +9,7 @@ tags:
   - Fast movement responses
 ---
 
-During my time at Queen's I collaborated with Renato Moraes, a professor from Universidade de São Paulo, who was on sabbatical at the time. Our paper  <i>Microsaccadic modulation in goal-directed reaching</i> has been accepted for publication in the Journal of Vision special issue "Eye Movements as Windows to the Mind: The Integration of Eye Movements, Perception, Attention, and Cognition – Honoring the Contributions of Eileen Kowler". I have written a little poem inspired by "Oh, the Thinks You Can Think!" by Dr. Seuss.
+During my time at Queen's I collaborated with Renato Moraes, a professor from Universidade de São Paulo, who was on sabbatical at the time. Our paper  <a href="../files/FookenEtAl.JoV.2026.pdf">Microsaccadic modulation in goal-directed reaching</a> has been accepted for publication in the Journal of Vision special issue "Eye Movements as Windows to the Mind: The Integration of Eye Movements, Perception, Attention, and Cognition – Honoring the Contributions of Eileen Kowler". I have written a little poem inspired by "Oh, the Thinks You Can Think!" by Dr. Seuss.
 
 Microsaccadic modulation in goal-directed reaching <br/>
 By Dr. Foo’ss <br/>
