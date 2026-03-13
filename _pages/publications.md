@@ -27,7 +27,7 @@ Preprints
 Refereed Journal Articles 
 ------
 <ol> 
-<li> <b>Fooken, J., Moraes, R., Scott, A. M., & Flanagan, J. R. (2026). Microsaccadic modulation in goal-directed reaching. <i>Journal of Vision</i>. 26(3):4, 1–17. <a href="../files/FookenEtAl.JoV.2026.pdf">[pdf]</a> </li> 
+<li> <b>Fooken, J.,</b> Moraes, R., Scott, A. M., & Flanagan, J. R. (2026). Microsaccadic modulation in goal-directed reaching. <i>Journal of Vision</i>. 26(3):4, 1–17. <a href="../files/FookenEtAl.JoV.2026.pdf">[pdf]</a> </li> 
 <li> <b>Fooken, J.,</b> Balalaie, P., Park, K., Flanagan, J. R., & Scott, S. H. (2024). Rapid eye and hand responses in an interception task are differentially modulated by context-dependent predictability. <i>Journal of Vision</i>. 24(12):10, 1-22. <a href="../files/FookenEtAl.JoV.2024.pdf">[pdf]</a> </li> 
 <li> Illamperuma, N. H. & <b>Fooken, J.,</b> (2024). Towards a functional understanding of gaze in goal-directed action. <i>Journal of Neurophysiology</i>, Editorial Focus on "Sensorimotor prediction is used to direct gaze toward task-relevant locations in a goal-directed throwing task". <a href="../files/IllamperumaFooken.JNP.2024.pdf">[pdf]</a> </li> 
 <li> <b>Fooken, J.,</b> Baltaretu, B. R., Barany, D. A., Diaz, G., Semrau, J. A., Singh, T., & Crawford, J. D. (2023). Perceptual-cognitive integration for goal-directed action in naturalistic environments. <i>Journal of Neuroscience</i>. 43(45), 7511-7522. <a href="../files/FookenEtAl.JNeurosci.2023.pdf">[pdf]</a> </li> 
