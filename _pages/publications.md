@@ -19,7 +19,6 @@ Preprints
 ------
 <!--<p style="text-indent: 30px"> -->
 <ol> 
-<li> Moraes, R. <b>Fooken, J.,</b>, & Flanagan, J. R. (2026). Independence of visuomotor functions engaged in visual pursuit and rapid responses to reach error. <a href="../files/MoraesEtAl.bioRxiv.2026.pdf">[bioRxiv]</a> </li> 
 <li> <b>Fooken, J.,</b> Illamperuma, N.H., & Flanagan, J. R. (2025). Gaze-related functions driving gaze anchoring in reaching. <a href="../files/FookenEtAl.bioRxiv.2025.pdf">[bioRxiv]</a> </li> 
 <li> <b>Fooken, J.,</b> Johansson, S.R., & Flanagan, J. R. (2024). Managing gaze competition when action on and monitoring the environment in parallel. <a href="../files/FookenJohanssonFlanagan.bioRxiv.2024.pdf">[bioRxiv]</a> </li> 
 </ol>
@@ -27,6 +26,7 @@ Preprints
 Refereed Journal Articles 
 ------
 <ol> 
+<li> Moraes, R. <b>Fooken, J.,</b>, Gallivan, P. J., & Flanagan, J. R. (2026). Rapid responses to reach errors are equally strong during fixation and visual pursuit. <i>Journal of Neurophysiology</i>. In press. <a href="../files/MoraesEtAl.JNP.inPress.pdf">[pdf]</a> </li> 
 <li> <b>Fooken, J.,</b> Moraes, R., Scott, A. M., & Flanagan, J. R. (2026). Microsaccadic modulation in goal-directed reaching. <i>Journal of Vision</i>. 26(3):4, 1–17. <a href="../files/FookenEtAl.JoV.2026.pdf">[pdf]</a> </li> 
 <li> <b>Fooken, J.,</b> Balalaie, P., Park, K., Flanagan, J. R., & Scott, S. H. (2024). Rapid eye and hand responses in an interception task are differentially modulated by context-dependent predictability. <i>Journal of Vision</i>. 24(12):10, 1-22. <a href="../files/FookenEtAl.JoV.2024.pdf">[pdf]</a> </li> 
 <li> Illamperuma, N. H. & <b>Fooken, J.,</b> (2024). Towards a functional understanding of gaze in goal-directed action. <i>Journal of Neurophysiology</i>, Editorial Focus on "Sensorimotor prediction is used to direct gaze toward task-relevant locations in a goal-directed throwing task". <a href="../files/IllamperumaFooken.JNP.2024.pdf">[pdf]</a> </li> 
