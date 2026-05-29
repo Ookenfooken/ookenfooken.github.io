@@ -61,6 +61,7 @@ Your hand can respond,<br/>
 as strong as a boar. <br/>
 Your hand does not care<br/>
 for your eyes to be anywhere.<br/>
+
 Moving or still,<br/>
 on a dot at a spot,<br/>
 on a dot moving its spot.<br/>
