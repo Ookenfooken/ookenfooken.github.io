@@ -7,7 +7,7 @@ tags:
   - Fast movement responses
 ---
 
-During my time at Queen's I collaborated with Renato Moraes, a professor from Universidade de São Paulo, who was on sabbatical at the time. Our paper  <a href="../files/MoraesEtAl.JNP.inPress.pdf">Rapid responses to reach errors are equally strong during fixation and visual pursuit</a> has been accepted for publication in the Journal of Neurophysiology. I have written a little poem as is tradition in Dr. Seuss style.
+During my time at Queen's I collaborated with Renato Moraes, a professor from Universidade de São Paulo, who was on sabbatical at the time. Our paper  <a href="../files/MoraesEtAl.JNP.2026.pdf">Rapid responses to reach errors are equally strong during fixation and visual pursuit</a> is now published in the Journal of Neurophysiology. I have written a little poem as is tradition in Dr. Seuss style.
 
 Rapid responses to reach errors are equally strong during fixation and visual pursuit <br/>
 By Dr. Foo’ss <br/>
