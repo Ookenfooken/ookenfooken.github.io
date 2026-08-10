@@ -19,7 +19,7 @@ Preprints
 ------
 <!--<p style="text-indent: 30px"> -->
 <ol> 
-<li> <b>Fooken, J.,</b> Illamperuma, N.H., & Flanagan, J. R. (2025). Gaze-related functions driving gaze anchoring in reaching. <a href="../files/FookenEtAl.bioRxiv.2025.pdf">[bioRxiv]</a> </li> 
+<li> <b>Fooken, J.,</b> Illamperuma, N.H., Gallivan, J. P., & Flanagan, J. R. (2025). Gaze-related functions driving gaze anchoring in reaching. <a href="../files/FookenEtAl.bioRxiv.2025.pdf">[bioRxiv]</a> </li> 
 </ol>
 
 Refereed Journal Articles 
